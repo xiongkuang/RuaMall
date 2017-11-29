@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="rua-common" />
+        <module name="rua-manager-dao" />
+        <module name="rua-manager-interface" />
+        <module name="rua-manager-pojo" />
+        <module name="rua-manager-service" />
+        <module name="rua-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rua-common" target="1.8" />
+      <module name="rua-manager" target="1.8" />
+      <module name="rua-manager-dao" target="1.8" />
+      <module name="rua-manager-interface" target="1.8" />
+      <module name="rua-manager-pojo" target="1.8" />
+      <module name="rua-manager-service" target="1.8" />
+      <module name="rua-manager-web" target="1.8" />
+      <module name="RuaMall" target="1.8" />
+      <module name="ruamanagerpojo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
