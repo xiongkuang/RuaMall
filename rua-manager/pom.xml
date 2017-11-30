@@ -16,7 +16,6 @@
         <module>rua-manager-dao</module>
         <module>rua-manager-interface</module>
         <module>rua-manager-service</module>
-
     </modules>
 
 
@@ -34,7 +33,7 @@
                 <groupId>org.apache.tomcat.maven</groupId>
                 <artifactId>tomcat7-maven-plugin</artifactId>
                 <configuration>
-                    <port>8080</port>
+                    <port>8088</port>
                     <path>/</path>
                 </configuration>
             </plugin>

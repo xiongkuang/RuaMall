@@ -11,6 +11,7 @@
         <module name="rua-manager-interface" />
         <module name="rua-manager-pojo" />
         <module name="rua-manager-service" />
+        <module name="rua-manager-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
