@@ -9,8 +9,6 @@
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-interface/rua-manager-interface.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-interface/rua-manager-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-web/rua-manager-web.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-web/rua-manager-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/rua-manager/ruamanagerpojo.iml" filepath="$PROJECT_DIR$/rua-manager/ruamanagerpojo.iml" />
     </modules>
   </component>
 </project>

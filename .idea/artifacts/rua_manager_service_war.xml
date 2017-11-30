@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rua-manager-service:war">
+    <output-path>$PROJECT_DIR$/rua-manager/rua-manager-service/target</output-path>
+    <root id="archive" name="rua-manager-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rua-manager-service:war exploded" />
+    </root>
+  </artifact>
+</component>

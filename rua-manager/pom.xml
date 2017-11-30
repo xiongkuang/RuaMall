@@ -16,7 +16,7 @@
         <module>rua-manager-dao</module>
         <module>rua-manager-interface</module>
         <module>rua-manager-service</module>
-        <module>rua-manager-web</module>
+
     </modules>
 
 
