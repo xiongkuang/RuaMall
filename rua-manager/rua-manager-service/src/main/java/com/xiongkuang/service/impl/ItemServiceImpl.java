@@ -1,5 +1,8 @@
 package com.xiongkuang.service.impl;
 
+import com.github.pagehelper.PageHelper;
+import com.github.pagehelper.PageInfo;
+import com.xiongkuang.common.pojo.EasyUiDataGridResult;
 import com.xiongkuang.mapper.TbItemMapper;
 import com.xiongkuang.pojo.TbItem;
 import com.xiongkuang.pojo.TbItemExample;
@@ -34,5 +37,21 @@ public class ItemServiceImpl implements ItemService {
             return list.get(0);
         }
         return null;
+    }
+
+    @Override
+    public EasyUiDataGridResult getItemList(int page, int rows){
+        //设置分页信息
+        PageHelper.startPage(page, rows);
+
+        //执行查询
+        TbItemExample example = new TbItemExample();
+        List<TbItem> list = itemMapper.selectByExample(example);
+        EasyUiDataGridResult result = new EasyUiDataGridResult();
+        result.setRows(list);
+        PageInfo<TbItem> info = new PageInfo<>(list);
+        long total = info.getTotal();
+        result.setTotal(total);
+        return result;
     }
 }

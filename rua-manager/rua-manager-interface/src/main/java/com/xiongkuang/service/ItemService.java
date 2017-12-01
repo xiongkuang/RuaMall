@@ -1,5 +1,6 @@
 package com.xiongkuang.service;
 
+import com.xiongkuang.common.pojo.EasyUiDataGridResult;
 import com.xiongkuang.pojo.TbItem;
 
 /**
@@ -9,4 +10,5 @@ import com.xiongkuang.pojo.TbItem;
 public interface ItemService {
 
     TbItem getItemById(Long id);
+    EasyUiDataGridResult getItemList(int page, int rows);
 }
