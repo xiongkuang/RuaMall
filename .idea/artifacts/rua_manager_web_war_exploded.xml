@@ -29,6 +29,8 @@
           <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.2" />
           <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.1" />
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
+          <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:4.1.6" />
+          <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.5" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.3.12.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.12.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.12.RELEASE" />

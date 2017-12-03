@@ -5,3 +5,4 @@
     rua-manager-web：8089
     zookeeper：2181
     dubbo-admin：8083
+    enginx:8888
