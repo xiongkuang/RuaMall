@@ -5,4 +5,5 @@
     rua-manager-web：8089
     zookeeper：2181
     dubbo-admin：8083
-    enginx:8888
+    enginx:8888   /usr/local/etc/nginx.conf
+    enginx2:8889
