@@ -89,11 +89,63 @@ public class ItemServiceImpl implements ItemService {
     }
 
     @Override
-    public ResponseResult deleteItem(long[] ids) {
+    public ResponseResult deleteItem(Long[] ids) {
         for(long id : ids){
             itemMapper.deleteByPrimaryKey(id);
             itemDescMapper.deleteByPrimaryKey(id);
         }
+        return ResponseResult.ok();
+    }
+
+    /**
+     * 下架
+     * @param ids
+     * @return
+     */
+    @Override
+    public ResponseResult offShelfItem(Long[] ids) {
+        for(long id : ids){
+            TbItem item = itemMapper.selectByPrimaryKey(id);
+            item.setStatus((byte)2);
+            itemMapper.updateByPrimaryKey(item);
+        }
+        return ResponseResult.ok();
+    }
+
+    /**
+     * 上架
+     * @param ids
+     * @return
+     */
+    @Override
+    public ResponseResult reShelfItem(Long[] ids) {
+        for(long id : ids){
+            TbItem item = itemMapper.selectByPrimaryKey(id);
+            item.setStatus((byte)1);
+            itemMapper.updateByPrimaryKey(item);
+        }
+        return ResponseResult.ok();
+    }
+
+    @Override
+    public TbItemDesc getDescById(Long id) {
+        TbItemDesc desc = itemDescMapper.selectByPrimaryKey(id);
+        return desc;
+    }
+
+    @Override
+    public ResponseResult updateItem(TbItem item, String desc) {
+        long itemId = item.getId();
+
+        item.setStatus((byte)1);
+        Date date = new Date();
+        item.setCreated(date);
+        item.setUpdated(date);
+
+        itemMapper.updateByPrimaryKey(item);
+        TbItemDesc newDesc = itemDescMapper.selectByPrimaryKey(itemId);
+        itemDescMapper.updateByPrimaryKey(newDesc);
+
         return ResponseResult.ok();
     }
 }
