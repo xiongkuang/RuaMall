@@ -5,5 +5,15 @@
     rua-manager-web：8089
     zookeeper：2181
     dubbo-admin：8083
-    enginx:8888   /usr/local/etc/nginx.conf
-    enginx2:8889
+    本机enginx:8888   /usr/local/etc/nginx.conf
+    本机enginx2:8889
+    
+    FastDFS服务器：192.168.25.133
+
+
+
+**启动zooKeeper**
+
+    ~$ zkServer start
+    
+    

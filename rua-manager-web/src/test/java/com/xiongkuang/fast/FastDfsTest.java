@@ -1,5 +1,6 @@
 package com.xiongkuang.fast;
 
+import com.xiongkuang.common.utils.FastDFSClient;
 import org.csource.fastdfs.*;
 import org.junit.Test;
 
@@ -34,6 +35,14 @@ public class FastDfsTest {
         for(String s : strs){
             System.out.println(s);
         }
+    }
+
+
+    @Test
+    public void fastDfsClientTest() throws Exception{
+        FastDFSClient fastDFSClient = new FastDFSClient("/Users/xiongkuang/Desktop/practice/RuaMall/rua-manager-web/src/main/resources/conf/client.conf");
+        String str =  fastDFSClient.uploadFile("/Users/xiongkuang/Downloads/dendi.jpg");
+        System.out.println(str);
     }
 
 }
