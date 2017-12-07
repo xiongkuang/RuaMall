@@ -1,4 +1,5 @@
-com/xiongkuang/controller/ItemCatController.class
 com/xiongkuang/controller/PageController.class
 com/xiongkuang/controller/ItemController.class
 com/xiongkuang/controller/PictureController.class
+com/xiongkuang/fast/FastDfs.class
+com/xiongkuang/controller/ItemCatController.class

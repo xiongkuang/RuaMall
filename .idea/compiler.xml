@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="rua-common" />
+        <module name="rua-front-web" />
         <module name="rua-manager-dao" />
         <module name="rua-manager-interface" />
         <module name="rua-manager-pojo" />
@@ -16,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="rua-common" target="1.8" />
+      <module name="rua-front-web" target="1.8" />
       <module name="rua-manager" target="1.8" />
       <module name="rua-manager-dao" target="1.8" />
       <module name="rua-manager-interface" target="1.8" />

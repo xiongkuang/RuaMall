@@ -3,6 +3,7 @@
     数据库：3306
     rua-manager：8088
     rua-manager-web：8089
+    rua-front-web: 8087
     zookeeper：2181
     dubbo-admin：8083
     本机enginx:8888   /usr/local/etc/nginx.conf
