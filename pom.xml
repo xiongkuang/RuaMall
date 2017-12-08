@@ -9,6 +9,7 @@
         <module>rua-manager</module>
         <module>rua-manager-web</module>
         <module>rua-front-web</module>
+        <module>rua-content</module>
     </modules>
     <packaging>pom</packaging>
     <!-- 集中定义依赖版本号 -->

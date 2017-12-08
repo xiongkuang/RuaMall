@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RuaMall.iml" filepath="$PROJECT_DIR$/RuaMall.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-common/rua-common.iml" filepath="$PROJECT_DIR$/rua-common/rua-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-content/rua-content.iml" filepath="$PROJECT_DIR$/rua-content/rua-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" filepath="$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-content/rua-content-service/rua-content-service.iml" filepath="$PROJECT_DIR$/rua-content/rua-content-service/rua-content-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-front-web/rua-front-web.iml" filepath="$PROJECT_DIR$/rua-front-web/rua-front-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/rua-manager-dao.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-dao/rua-manager-dao.iml" />
