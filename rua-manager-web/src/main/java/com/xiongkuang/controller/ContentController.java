@@ -30,8 +30,8 @@ public class ContentController {
 
     @RequestMapping(value = "/content/query/list")
     @ResponseBody
-    public EasyUiDataGridResult getContentListByCategoryId(Long categoryId, Integer page, Integer rows){
-        EasyUiDataGridResult res = contentService.getContentListByCategoryId(categoryId, page, rows);
+    public EasyUiDataGridResult showContentListByCategoryId(Long categoryId, Integer page, Integer rows){
+        EasyUiDataGridResult res = contentService.showContentListByCategoryId(categoryId, page, rows);
         return res;
     }
 

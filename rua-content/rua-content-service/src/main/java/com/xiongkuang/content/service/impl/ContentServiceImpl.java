@@ -33,14 +33,13 @@ public class ContentServiceImpl implements ContentService {
 
 
     @Override
-    public EasyUiDataGridResult getContentListByCategoryId(long categoryId, int page, int rows) {
+    public EasyUiDataGridResult showContentListByCategoryId(long categoryId, int page, int rows) {
         //设置分页信息
         PageHelper.startPage(page, rows);
-
-        TbContentExample example = new TbContentExample();
-        TbContentExample.Criteria criteria = example.createCriteria();
-        criteria.andCategoryIdEqualTo(categoryId);
-        List<TbContent> list = contentMapper.selectByExample(example);
+//        TbContentExample example = new TbContentExample();
+//        TbContentExample.Criteria criteria = example.createCriteria();
+//        criteria.andCategoryIdEqualTo(categoryId);
+        List<TbContent> list = getContentListByCid(categoryId);
         EasyUiDataGridResult result = new EasyUiDataGridResult();
         result.setRows(list);
         PageInfo<TbContent> info = new PageInfo<>(list);
@@ -63,5 +62,15 @@ public class ContentServiceImpl implements ContentService {
             contentMapper.deleteByPrimaryKey(id);
         }
         return ResponseResult.ok();
+    }
+
+
+    @Override
+    public List<TbContent> getContentListByCid(long cid) {
+        TbContentExample example = new TbContentExample();
+        TbContentExample.Criteria criteria = example.createCriteria();
+        criteria.andCategoryIdEqualTo(cid);
+        List<TbContent> list = contentMapper.selectByExampleWithBLOBs(example);
+        return list;
     }
 }
