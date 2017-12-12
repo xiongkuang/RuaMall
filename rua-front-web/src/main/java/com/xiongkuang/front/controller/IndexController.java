@@ -21,6 +21,11 @@ public class IndexController {
     @Value("${CONTENT_CAROUSEL_ID}")
     private Long CONTENT_CAROUSEL_ID;
 
+    /**
+     * 根据content的category返回相应的所有content
+     * @param model
+     * @return
+     */
     @RequestMapping("/index")
     public String showIndex(Model model){
         //查询内容列表

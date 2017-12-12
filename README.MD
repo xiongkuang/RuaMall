@@ -30,6 +30,20 @@
     ~$ zkServer start
     
     
+**redis**
 
+    单机版端口号 6379
+    ~$ redis-server /usr/local/etc/redis.conf
+    集群版  7001 ～ 7003（master） 7004 ～ 7006（slave）
+    /usr/local/Cellar/redis/redis-cluster
+    启动：./start-all.sh
+    
+    ~$ redis-cli -p 700x -c
+
+
+**solr**
+        
+       start solr
+       localhost:8983
     
     
