@@ -23,6 +23,12 @@
             <version>1.0-SNAPSHOT</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.xiongkuang</groupId>
+            <artifactId>rua-search-interface</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
         <!-- JSP相关 -->
         <dependency>
             <groupId>jstl</groupId>

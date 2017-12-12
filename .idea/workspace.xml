@@ -2,39 +2,166 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db83e925-9b4d-4bdb-9788-2d82601292c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/conf/resource.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-redis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisClientTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/bottom_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/cate_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/dq_icon2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/error_img.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot/cd.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot/qc.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot/qq.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot/sf.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/foot_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/g_loading.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/042cc65a4fb9899878f2f37235ca1793.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1463455028.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1463456854.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1468837571.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1471311388.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1471311447.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1472521203.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1472521236.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1472521250.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/1748dcf682d7f595012e4309695d71d9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/20160829181637762.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/26336113289bf7273823080488a9d200.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/2a3ba6ffb33d8fca0dc848f94e3d99d8.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/49111b8189bf71370cdb145f8fdb1195.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/4dd7317569a06a451c1fe7762d6bf928.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/516e4d058d1d65a3506e179642297b2d.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/51e357022c1f826f13211222831a4b13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/600c425e04b41f49e451d2fdbafb6e45.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/751d2091c008c2a49c1934545730f041.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/757e35fab995b43c23b4396dc3ba4269.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/7a80fda907bf5107f6967add2a304a51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/7cc96c14e10f6ed8db28b4b1efdfdb07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/838abc2055e36f423701de255bbc9914.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/8f42d6d2deead3da7d50c8a702a3c939.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/95256f5b2857ec28914f631532508d76.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/aa472cb9f9624d22d1fcfd1c4dffbe42.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/c11e0d59289782b09ea1cbcb98070017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/c3449a684bebe21f5b6c6c79e46791ff.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/cf33d7d36f1128577782ded21fe812a9.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/ddf3f66b114f3a3bfbbe0b47693cdbf0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/de66a063548629c8d4e639523d8c9c6e.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/e886f76e03f7a3596033eb34ca362339.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/html/logo_word.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/indexImg20130307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/index_icon_new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/indexsprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/kxicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/left_lm_m_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/logo66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/images/productList.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_search_service_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_search_service_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_search_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_search_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_math3_3_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_solr_solr_solrj_7_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_noggit_noggit_0_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/SearchItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/SearchItemController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/rua-search-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/mainmenu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/error/exception.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/all.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/base_w1200.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/jquery.alerts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/jquery.autocomplete.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/css/productList.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/NewVersion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/e3mall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/jquery-1.5.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/jquery.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/shadow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-interface/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-interface/rua-search-interface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-interface/src/main/java/com/xiongkuang/search/service/SearchItemService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/rua-search-service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/service/impl/SearchItemServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/conf/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-solr.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/solrj/TestSolrj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-search/rua-search.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_8_0_alpha2.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-common/target/rua-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/rua-manager-dao-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rua_content_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_content_service_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rua_front_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_front_web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rua_manager_service_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_manager_service_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rua_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_manager_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/pom.xml" afterPath="$PROJECT_DIR$/rua-common/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/rua-common.iml" afterPath="$PROJECT_DIR$/rua-common/rua-common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/JsonUtils.java" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/JsonUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" afterPath="$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/pom.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/rua-content-service.iml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/rua-content-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentServiceImpl.java" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentServiceImpl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/classes/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/classes/spring/applicationContext-service.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-service.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisClientTest.txt" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisClientTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisTest.txt" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisClientTest.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisClientTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisTest.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisTest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content.iml" afterPath="$PROJECT_DIR$/rua-content/rua-content.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/rua-front-web.iml" afterPath="$PROJECT_DIR$/rua-front-web/rua-front-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java" afterPath="$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-08" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-08" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/pom.xml" afterPath="$PROJECT_DIR$/rua-manager-web/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/rua-manager-web.iml" afterPath="$PROJECT_DIR$/rua-manager-web/rua-manager-web.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-08" afterPath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-08" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/rua-manager-web/target/classes/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/rua-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-12" afterPath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-12" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-dao/rua-manager-dao.iml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-dao/rua-manager-dao.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-interface/rua-manager-interface.iml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-interface/rua-manager-interface.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.pagehelper.PageHelperTest.xml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.pagehelper.PageHelperTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.publish.PublishTest.xml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.publish.PublishTest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.pagehelper.PageHelperTest.txt" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.pagehelper.PageHelperTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.publish.PublishTest.txt" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.publish.PublishTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -51,6 +178,10 @@
     <ignored path="$PROJECT_DIR$/rua-content/target/" />
     <ignored path="$PROJECT_DIR$/rua-content/rua-content-interface/target/" />
     <ignored path="$PROJECT_DIR$/rua-content/rua-content-service/target/" />
+    <ignored path="$PROJECT_DIR$/rua-search/target/" />
+    <ignored path="$PROJECT_DIR$/rua-search/rua-search-interface/target/" />
+    <ignored path="$PROJECT_DIR$/rua-search/rua-search-service/target/" />
+    <ignored path="$PROJECT_DIR$/rua-search-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,12 +201,34 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SearchItemServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/service/impl/SearchItemServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="416">
+              <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="README.MD" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.MD">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="455">
-                <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+              <first_editor relative-caret-position="274">
+                <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -83,97 +236,71 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2686">
-              <caret line="207" column="21" lean-forward="false" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="21" />
+            <state relative-caret-position="329">
+              <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContentServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentServiceImpl.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-front-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1290">
-              <caret line="86" column="41" lean-forward="true" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ContentController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1418#1419#0" expanded="true" />
-                <element signature="e#1474#1475#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="59">
-              <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+            <state relative-caret-position="338">
+              <caret line="115" column="0" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="115" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="content-edit.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-search-web/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JsonUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/JsonUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
+            <state relative-caret-position="281">
+              <caret line="115" column="21" lean-forward="false" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="resource.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/conf/resource.properties">
+        <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/resources/conf/resource.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="applicationContext-dao.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-dao.xml">
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
-              <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -196,13 +323,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>pagehelper</find>
-      <find>SelectByEx</find>
-      <find>Base_Column_List</find>
-      <find>BaseResultMap</find>
-      <find>pagehel</find>
-      <find>framework</find>
-      <find>junit</find>
       <find>图片</find>
       <find>classpath</find>
       <find>value</find>
@@ -224,8 +344,15 @@
       <find>jackson</find>
       <find>/content/edit</find>
       <find>/content/delet</find>
+      <find>where</find>
       <find>solrj</find>
+      <find>solr-solrj</find>
       <find>solr</find>
+      <find>slf</find>
+      <find>slf4j</find>
+      <find>log4j</find>
+      <find>content</find>
+      <find>rua-front</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -239,32 +366,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ItemCatController.java" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/java/com/xiongkuang/service/impl/ItemCatServiceImpl.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/fast/FastDfs.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/resources/conf/client.conf" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/test/java/com/xiongkuang/fast/FastDfsTest.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/resources/conf/resource.properties" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/PictureController.java" />
-        <option value="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/ResponseResult.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/item-list.jsp" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/item-edit.jsp" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-interface/src/main/java/com/xiongkuang/service/ItemService.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ItemController.java" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/java/com/xiongkuang/service/impl/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/rua-front-web/src/main/webapp/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/rua-content/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-content/rua-content-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-trans.xml" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/publish/PublishServiceTest.java" />
         <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/publish/PublishTest.java" />
-        <option value="$PROJECT_DIR$/rua-manager-web/pom.xml" />
         <option value="$PROJECT_DIR$/rua-manager/rua-manager-dao/src/main/java/com/xiongkuang/mapper/TbContentCategoryMapper.xml" />
-        <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml" />
-        <option value="$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-interface/src/main/java/com/xiongkuang/content/service/ContentCategoryService.java" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentCategoryServiceImpl.java" />
         <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentCatController.java" />
@@ -275,7 +380,6 @@
         <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentController.java" />
         <option value="$PROJECT_DIR$/rua-front-web/src/main/resources/conf/resource.properties" />
         <option value="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/index.jsp" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisTest.java" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-service/pom.xml" />
         <option value="$PROJECT_DIR$/rua-common/pom.xml" />
@@ -289,7 +393,30 @@
         <option value="$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp" />
         <option value="$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java" />
         <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/SearchItem.java" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.java" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-interface/src/main/java/com/xiongkuang/search/service/SearchItemService.java" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-dao.xml" />
+        <option value="$PROJECT_DIR$/rua-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-solr.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/SearchItemController.java" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/service/impl/SearchItemServiceImpl.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/solrj/TestSolrj.java" />
+        <option value="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/rua-search/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/rua-search-web/pom.xml" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/rua-search-web/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/rua-search-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/web.xml" />
       </list>
     </option>
   </component>
@@ -314,7 +441,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
+          <option name="myItemId" value="rua-manager-web Maven Webapp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
@@ -324,7 +451,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
+          <option name="myItemId" value="rua-manager-web Maven Webapp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -338,7 +465,7 @@
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
+          <option name="myItemId" value="rua-manager-web Maven Webapp" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -516,7 +643,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -539,7 +665,103 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rua-manager-web" />
+              <option name="myItemId" value="rua-search-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-search-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-search-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-search-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-search-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -594,6 +816,40 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WEB-INF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-front-web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -642,383 +898,14 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="conf" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-content-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="utils" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="common" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jedis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1035,19 +922,22 @@
       <recent name="com.xiongkuang.fast" />
       <recent name="com.xiongkuang.pagehelper" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring" />
-      <recent name="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis" />
-      <recent name="$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources" />
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/rua-front-web/src/main/webapp" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
       <recent name="junit.framework.TestCase" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xiongkuang.search.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/rua-search-web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/rua-search-web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring" />
+      <recent name="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1062,75 +952,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.JedisClientTest.testJedisClient">
-    <configuration default="false" name="FastDfsTest.fastDfsClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.xiongkuang.fast.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="rua-manager-web" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.xiongkuang.fast" />
-      <option name="MAIN_CLASS_NAME" value="com.xiongkuang.fast.FastDfsTest" />
-      <option name="METHOD_NAME" value="fastDfsClientTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="JedisTest.testJedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="rua-content-service" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JedisTest" />
-      <option name="METHOD_NAME" value="testJedis" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="JedisTest.testJedisPool" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="rua-content-service" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="JedisTest" />
-      <option name="METHOD_NAME" value="testJedisPool" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.TestSolrj.testBean">
     <configuration default="false" name="JedisTest.testJedisCluster" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="rua-content-service" />
@@ -1160,6 +982,84 @@
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="JedisClientTest" />
       <option name="METHOD_NAME" value="testJedisClient" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSolrj.addDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xiongkuang.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="rua-search-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xiongkuang.solrj" />
+      <option name="MAIN_CLASS_NAME" value="com.xiongkuang.solrj.TestSolrj" />
+      <option name="METHOD_NAME" value="addDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSolrj.deleteDocument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xiongkuang.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="rua-search-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xiongkuang.solrj" />
+      <option name="MAIN_CLASS_NAME" value="com.xiongkuang.solrj.TestSolrj" />
+      <option name="METHOD_NAME" value="deleteDocument" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestSolrj.testBean" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.xiongkuang.solrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="rua-search-service" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.xiongkuang.solrj" />
+      <option name="MAIN_CLASS_NAME" value="com.xiongkuang.solrj.TestSolrj" />
+      <option name="METHOD_NAME" value="testBean" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -1660,19 +1560,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.FastDfsTest.fastDfsClientTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedis" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisPool" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisCluster" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.JedisClientTest.testJedisClient" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisCluster" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.JedisClientTest.testJedisClient" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestSolrj.addDocument" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestSolrj.deleteDocument" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestSolrj.testBean" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.JedisClientTest.testJedisClient" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisCluster" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisPool" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedis" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.FastDfsTest.fastDfsClientTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestSolrj.testBean" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestSolrj.deleteDocument" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestSolrj.addDocument" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.JedisClientTest.testJedisClient" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.JedisTest.testJedisCluster" />
       </list>
     </recent_temporary>
   </component>
@@ -1702,44 +1602,45 @@
       <workItem from="1512044899793" duration="3115000" />
       <workItem from="1512055669690" duration="15687000" />
       <workItem from="1512473360616" duration="24005000" />
-      <workItem from="1512552509094" duration="30795000" />
+      <workItem from="1512552509094" duration="42000000" />
+      <workItem from="1513077205170" duration="2057000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JedisClientTest_testJedisClient - 2017.12.10 at 01h 53m 56s.xml">
-      <configuration name="JedisClientTest.testJedisClient" configurationId="JUnit" />
+    <history-entry file="TestSolrj_deleteDocument - 2017.12.12 at 16h 58m 37s.xml">
+      <configuration name="TestSolrj.deleteDocument" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisClientTest_testJedisClient - 2017.12.10 at 01h 59m 12s.xml">
-      <configuration name="JedisClientTest.testJedisClient" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 00m 22s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisClientTest_testJedisClient - 2017.12.10 at 02h 09m 50s.xml">
-      <configuration name="JedisClientTest.testJedisClient" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 39m 31s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisClientTest_testJedisClient - 2017.12.10 at 02h 10m 23s.xml">
-      <configuration name="JedisClientTest.testJedisClient" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 39m 59s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisTest_testJedis - 2017.12.10 at 00h 46m 17s.xml">
-      <configuration name="JedisTest.testJedis" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 40m 36s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisTest_testJedisCluster - 2017.12.10 at 01h 03m 35s.xml">
-      <configuration name="JedisTest.testJedisCluster" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 41m 37s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JedisTest_testJedisPool - 2017.12.10 at 00h 51m 08s.xml">
-      <configuration name="JedisTest.testJedisPool" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 42m 30s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PageHelperTestTest_testPageHelper - 2017.12.01 at 11h 05m 05s.xml">
-      <configuration name="PageHelperTestTest.testPageHelper" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 42m 42s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PageHelperTest_testPageHelper - 2017.12.01 at 11h 16m 42s.xml">
-      <configuration name="PageHelperTest.testPageHelper" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 42m 59s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="PageHelperTest_testPageHelper - 2017.12.01 at 11h 21m 58s.xml">
-      <configuration name="PageHelperTest.testPageHelper" configurationId="JUnit" />
+    <history-entry file="TestSolrj_testBean - 2017.12.12 at 18h 44m 49s.xml">
+      <configuration name="TestSolrj.testBean" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="91321000" />
+    <option name="totallyTimeSpent" value="104583000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="4" y="23" width="1276" height="777" extended-state="6" />
@@ -1757,26 +1658,26 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.48467153" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19854015" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2729927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24525547" sideWeight="0.49189627" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21231766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21555915" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39562044" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.49675852" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39562044" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1796,51 +1697,102 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/resources/conf/resource.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <marker date="1512633266925" expanded="true" signature="101:783" ph="..." />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-trans.xml">
+    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        <state relative-caret-position="138">
+          <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="24" column="39" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/webapp/WEB-INF/web.xml">
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/publish/PublishTest.java">
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
+        <state relative-caret-position="330">
+          <caret line="85" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-trans.xml" />
+    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/src/main/java/com/xiongkuang/mapper/TbContentCategoryMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="17" lean-forward="false" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/EasyUiTreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/SearchItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="47" lean-forward="false" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/src/main/java/com/xiongkuang/mapper/TbContentCategoryMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="104" column="9" lean-forward="false" selection-start-line="104" selection-start-column="3" selection-end-line="104" selection-end-column="9" />
+        <state relative-caret-position="319">
+          <caret line="261" column="9" lean-forward="false" selection-start-line="261" selection-start-column="4" selection-end-line="261" selection-end-column="9" />
           <folding>
             <marker date="1512706856709" expanded="true" signature="3826:3940" ph="select from tb_content_category" />
             <marker date="1512706856709" expanded="true" signature="4024:4092" ph="delete from " />
             <marker date="1512706856709" expanded="true" signature="4203:4234" ph="delete from " />
-            <marker date="1512706856709" expanded="true" signature="4534:4901" ph="insert into tb_content_category... " />
             <marker date="1512706856709" expanded="true" signature="6593:6633" ph="select count... tb_content_category" />
             <marker date="1512706856709" expanded="true" signature="7876:8310" ph="update tb_co... " />
             <marker date="1512706856709" expanded="true" signature="8529:9274" ph="update tb_co... " />
@@ -1849,225 +1801,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ItemCatController.java">
+    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/src/main/java/com/xiongkuang/mapper/TbItemMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="146">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
-          <caret line="65" column="69" lean-forward="true" selection-start-line="65" selection-start-column="69" selection-end-line="65" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/PictureController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/PageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/java/com/xiongkuang/service/impl/ItemCatServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-interface/src/main/java/com/xiongkuang/content/service/ContentCategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="44" column="34" lean-forward="false" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content-category.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="64" column="49" lean-forward="false" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-interface/src/main/java/com/xiongkuang/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/java/com/xiongkuang/service/impl/ItemServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-928">
-          <caret line="62" column="22" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentCategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="97" column="35" lean-forward="false" selection-start-line="97" selection-start-column="35" selection-end-line="97" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ItemController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-108">
-          <caret line="30" column="70" lean-forward="false" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="70" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="45" lean-forward="false" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/fast/FastDfs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml">
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="50" lean-forward="false" selection-start-line="20" selection-start-column="50" selection-end-line="20" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/test/java/com/xiongkuang/fast/FastDfsTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="26" column="39" lean-forward="false" selection-start-line="26" selection-start-column="39" selection-end-line="26" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="114" column="23" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="36" column="18" lean-forward="false" selection-start-line="36" selection-start-column="18" selection-end-line="36" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="74" column="42" lean-forward="false" selection-start-line="74" selection-start-column="42" selection-end-line="74" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="51" lean-forward="false" selection-start-line="37" selection-start-column="51" selection-end-line="37" selection-end-column="51" />
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc" expanded="false" />
-            <element signature="imports" expanded="false" />
+            <marker date="1513064304792" expanded="true" signature="294:508" ph="SELECT a.id,... tb_item" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/EasyUiDataGridResult.java">
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        <state relative-caret-position="150">
+          <caret line="10" column="20" lean-forward="false" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/pojo/EasyUiTreeNode.java">
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="563">
-          <caret line="38" column="19" lean-forward="false" selection-start-line="38" selection-start-column="19" selection-end-line="38" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="371">
+          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -2076,176 +1845,289 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="17" lean-forward="false" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="24" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#233#234#0" expanded="false" />
-            <element signature="e#256#257#0" expanded="false" />
-            <element signature="e#306#307#0" expanded="false" />
-            <element signature="e#339#340#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-          <folding>
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="1" lean-forward="false" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-175">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="55" lean-forward="false" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/JsonUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="57" column="14" lean-forward="false" selection-start-line="57" selection-start-column="14" selection-end-line="57" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/src/main/java/com/xiongkuang/mapper/TbContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="8" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentCatController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-interface/src/main/java/com/xiongkuang/content/service/ContentService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="15" column="19" lean-forward="false" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="59">
-          <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="68" column="33" lean-forward="false" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/ContentController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1418#1419#0" expanded="true" />
-            <element signature="e#1474#1475#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="24" column="39" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/java/com/xiongkuang/content/service/impl/ContentServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1290">
-          <caret line="86" column="41" lean-forward="true" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        <state relative-caret-position="776">
+          <caret line="86" column="41" lean-forward="false" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="24" column="33" lean-forward="false" selection-start-line="23" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="24" column="13" lean-forward="false" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-interface/src/main/java/com/xiongkuang/search/service/SearchItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-manager-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="21" column="58" lean-forward="false" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/solr/solr-solrj/7.1.0/solr-solrj-7.1.0.jar!/org/apache/solr/client/solrj/impl/HttpSolrClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="161" column="0" lean-forward="false" selection-start-line="161" selection-start-column="0" selection-end-line="161" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/java/com/xiongkuang/controller/SearchItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#709#710#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-solr.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-log4j12/1.8.0-alpha2/slf4j-log4j12-1.8.0-alpha2.jar!/org/slf4j/log4j12/VersionUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.xiongkuang:rua-search:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.xiongkuang:rua-search:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="" y="">com.xiongkuang:rua-search:1.0-SNAPSHOT</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/joda-time:joda-time:jar:2.9.9</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.apache.commons:commons-lang3:jar:3.3.2</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/commons-io:commons-io:jar:1.3.2</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/commons-net:commons-net:jar:3.3</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.1</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.1/com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/com.fasterxml.jackson.core:jackson-databind:jar:2.9.1/com.fasterxml.jackson.core:jackson-core:jar:2.9.1</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.3</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.3/org.apache.httpcomponents:httpcore:jar:4.4.6</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.3/commons-logging:commons-logging:jar:1.2</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.apache.httpcomponents:httpclient:jar:4.5.3/commons-codec:commons-codec:jar:1.9</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/c3p0:c3p0:jar:0.9.1.1</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.quartz-scheduler:quartz:jar:2.2.2/org.slf4j:slf4j-api:jar:1.7.7</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.7.25</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.7.25/org.slf4j:slf4j-api:jar:1.7.25</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/org.slf4j:slf4j-log4j12:jar:1.7.25/log4j:log4j:jar:1.2.17</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/fastdfs_client:fastdfs_client:jar:1.25</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/redis.clients:jedis:jar:2.9.0</node>
+            <node x="" y="">com.xiongkuang:rua-common:jar:1.0-SNAPSHOT/redis.clients:jedis:jar:2.9.0/org.apache.commons:commons-pool2:jar:2.4.2</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.3489583333333333" x="422.0" y="830.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-dao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/solrj/TestSolrj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="34" column="33" lean-forward="false" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="99" column="27" lean-forward="false" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="30" column="34" lean-forward="false" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="31" lean-forward="false" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="22" column="8" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="115" column="0" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="115" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.MD">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="455">
-            <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <first_editor relative-caret-position="274">
+            <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/rua-search-web/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2686">
-          <caret line="207" column="21" lean-forward="false" selection-start-line="207" selection-start-column="17" selection-end-line="207" selection-end-column="21" />
+        <state relative-caret-position="281">
+          <caret line="115" column="21" lean-forward="false" selection-start-line="115" selection-start-column="21" selection-end-line="115" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="21" column="10" lean-forward="false" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/service/impl/SearchItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
           <folding />
         </state>
       </provider>
@@ -2305,7 +2187,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>rua-content-service</last-edited>
+          <last-edited>rua-search</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

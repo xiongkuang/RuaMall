@@ -1,5 +1,6 @@
 com/xiongkuang/controller/PageController.class
 com/xiongkuang/controller/ItemController.class
+com/xiongkuang/controller/SearchItemController.class
 com/xiongkuang/controller/PictureController.class
 com/xiongkuang/controller/ContentController.class
 com/xiongkuang/fast/FastDfs.class

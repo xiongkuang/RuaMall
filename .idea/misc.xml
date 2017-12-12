@@ -6,6 +6,8 @@
     <file type="web" url="file://$PROJECT_DIR$/rua-manager-web" />
     <file type="web" url="file://$PROJECT_DIR$/rua-manager/rua-manager-service" />
     <file type="web" url="file://$PROJECT_DIR$/rua-manager/rua-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/rua-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/rua-search/rua-search-service" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">

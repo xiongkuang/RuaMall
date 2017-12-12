@@ -1,6 +1,10 @@
+/Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/pojo/SearchItem.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/utils/FastDFSClient.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/utils/ResponseResult.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/pojo/EasyUiTreeNode.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/utils/IDUtils.java
+/Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java
+/Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/utils/JsonUtils.java
+/Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java
 /Users/xiongkuang/Desktop/practice/RuaMall/rua-common/src/main/java/com/xiongkuang/common/pojo/EasyUiDataGridResult.java

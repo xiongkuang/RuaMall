@@ -14,6 +14,10 @@
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/rua-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" filepath="$PROJECT_DIR$/rua-manager/rua-manager-service/rua-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-manager-web/rua-manager-web.iml" filepath="$PROJECT_DIR$/rua-manager-web/rua-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-search/rua-search.iml" filepath="$PROJECT_DIR$/rua-search/rua-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-search/rua-search-interface/rua-search-interface.iml" filepath="$PROJECT_DIR$/rua-search/rua-search-interface/rua-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-search/rua-search-service/rua-search-service.iml" filepath="$PROJECT_DIR$/rua-search/rua-search-service/rua-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-search-web/rua-search-web.iml" filepath="$PROJECT_DIR$/rua-search-web/rua-search-web.iml" />
     </modules>
   </component>
 </project>

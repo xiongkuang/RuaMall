@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rua-search-web:war">
+    <output-path>$PROJECT_DIR$/rua-search-web/target</output-path>
+    <root id="archive" name="rua-manager-web.war">
+      <element id="artifact" artifact-name="rua-search-web:war exploded" />
+    </root>
+  </artifact>
+</component>

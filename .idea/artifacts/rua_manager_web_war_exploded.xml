@@ -33,6 +33,9 @@
           <element id="archive" name="rua-content-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="rua-content-interface" />
           </element>
+          <element id="archive" name="rua-search-interface-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="rua-search-interface" />
+          </element>
           <element id="library" level="project" name="Maven: jstl:jstl:1.2" />
           <element id="library" level="project" name="Maven: com.github.pagehelper:pagehelper:4.1.6" />
           <element id="library" level="project" name="Maven: com.github.jsqlparser:jsqlparser:0.9.5" />
@@ -55,7 +58,7 @@
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.20.0-GA" />
           <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.10" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.1" />
-          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.8.0-alpha2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-log4j12:1.6.4" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.16" />
           <element id="library" level="project" name="Maven: jline:jline:0.9.94" />
           <element id="library" level="project" name="Maven: io.netty:netty:3.10.5.Final" />

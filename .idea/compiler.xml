@@ -15,6 +15,9 @@
         <module name="rua-manager-pojo" />
         <module name="rua-manager-service" />
         <module name="rua-manager-web" />
+        <module name="rua-search-interface" />
+        <module name="rua-search-service" />
+        <module name="rua-search-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,6 +32,10 @@
       <module name="rua-manager-pojo" target="1.8" />
       <module name="rua-manager-service" target="1.8" />
       <module name="rua-manager-web" target="1.8" />
+      <module name="rua-search" target="1.8" />
+      <module name="rua-search-interface" target="1.8" />
+      <module name="rua-search-service" target="1.8" />
+      <module name="rua-search-web" target="1.8" />
       <module name="RuaMall" target="1.8" />
       <module name="ruamanagerpojo" target="1.8" />
     </bytecodeTargetLevel>

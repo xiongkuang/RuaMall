@@ -11,6 +11,8 @@
     数据库：3306
     rua-manager：8088
     rua-content: 8085
+    rua-search-web: 8086
+    rua-search: 8090
     rua-manager-web：8089
     rua-front-web: 8087
     zookeeper：2181
@@ -19,8 +21,9 @@
     本机enginx2:8889
     
     dubbo服务：
-        rua-manager：20880
-        rua-content：20881
+        rua-manager: 20880
+        rua-content: 20881
+        rua-search:  20882
     FastDFS服务器：192.168.25.133
 
 
