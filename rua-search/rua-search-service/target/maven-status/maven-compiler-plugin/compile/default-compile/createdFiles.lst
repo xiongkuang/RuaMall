@@ -1,2 +1,4 @@
+com/xiongkuang/search/dao/SearchDao.class
+com/xiongkuang/search/service/impl/SearchServiceImpl.class
 com/xiongkuang/search/mapper/ItemMapper.class
 com/xiongkuang/search/service/impl/SearchItemServiceImpl.class

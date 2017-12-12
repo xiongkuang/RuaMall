@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:23:12:43 +0800] "GET /search.html?keyword=sss HTTP/1.1" 404 973 http-bio-8085-exec-1 64
+0:0:0:0:0:0:0:1 - - [12/Dec/2017:23:12:43 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8085-exec-2 1

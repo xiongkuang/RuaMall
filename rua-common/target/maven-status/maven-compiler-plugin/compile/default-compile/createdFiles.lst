@@ -1,4 +1,5 @@
 com/xiongkuang/common/utils/JsonUtils.class
+com/xiongkuang/common/pojo/SearchResult.class
 com/xiongkuang/common/utils/ResponseResult.class
 com/xiongkuang/common/utils/IDUtils.class
 com/xiongkuang/common/utils/FastDFSClient.class

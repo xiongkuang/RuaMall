@@ -3,11 +3,18 @@ package com.xiongkuang.solrj;
 
 
 import org.apache.solr.client.solrj.SolrClient;
+import org.apache.solr.client.solrj.SolrQuery;
 import org.apache.solr.client.solrj.impl.HttpSolrClient;
+import org.apache.solr.client.solrj.request.QueryRequest;
+import org.apache.solr.client.solrj.response.QueryResponse;
+import org.apache.solr.common.SolrDocumentList;
 import org.apache.solr.common.SolrInputDocument;
 import org.junit.Test;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+import java.util.List;
+import java.util.Map;
 
 /**
  * Created by xiongkuang on 12/12/2017.
@@ -75,6 +82,83 @@ public class TestSolrj {
         //把文档写入索引库，并commit
         solrClient.add(document);
         solrClient.commit();
+
+    }
+
+    @Test
+    public void queryIndex() throws Exception{
+        //创建一个solrserver对象
+        String urlString = "http://localhost:8983/solr/core1";
+        SolrClient solrClient = new HttpSolrClient.Builder(urlString).build();
+
+        //创建solrquery对象
+        SolrQuery query = new SolrQuery();
+
+        //设置查询条件
+//        query.setQuery("*:*");
+        query.set("q", "*:*");
+
+        //执行查询，queryresponse对象
+        QueryResponse response = solrClient.query(query);
+
+        //取文档列表，取查询结果的总记录数
+        SolrDocumentList documents = response.getResults();
+        System.out.println("Result number is : " + documents.getNumFound());
+
+        //遍历文档列表
+        documents.forEach(document->{
+            System.out.println(document.get("id"));
+            System.out.println(document.get("item_title"));
+            System.out.println(document.get("item_sell_point"));
+            System.out.println(document.get("item_price"));
+            System.out.println(document.get("item_image"));
+            System.out.println(document.get("item_category_name"));
+        });
+    }
+
+    @Test
+    public void advancedQueryIndex() throws Exception{
+        //创建一个solrserver对象
+        String urlString = "http://localhost:8983/solr/core1";
+        SolrClient solrClient = new HttpSolrClient.Builder(urlString).build();
+
+        //创建solrquery对象
+        SolrQuery query = new SolrQuery();
+
+        //设置查询条件
+        query.setQuery("华为");
+        query.setStart(0);
+        query.setRows(20);
+        query.set("df", "item_title");
+        query.setHighlight(true);
+        query.addHighlightField("item_title");
+        query.setHighlightSimplePre("<em>");
+        query.setHighlightSimplePost("</em>");
+
+        //执行查询，queryresponse对象
+        QueryResponse response = solrClient.query(query);
+
+        //取文档列表，取查询结果的总记录数
+        SolrDocumentList documents = response.getResults();
+        System.out.println("Result number is : " + documents.getNumFound());
+
+        //遍历文档列表
+        Map<String, Map<String, List<String>>> highlighting = response.getHighlighting();
+        documents.forEach(document->{
+            System.out.println(document.get("id"));
+            List<String> list = highlighting.get(document.get("id")).get("item_title");
+            String title="";
+            if(list != null && list.size() > 0){
+                title = list.get(0);
+            }else {
+                title = (String)document.get("item_title");
+            }
+            System.out.println(title);
+            System.out.println(document.get("item_sell_point"));
+            System.out.println(document.get("item_price"));
+            System.out.println(document.get("item_image"));
+            System.out.println(document.get("item_category_name"));
+        });
 
     }
 }

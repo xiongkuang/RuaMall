@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="Cache-Control" content="max-age=300" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>${query} - 商品搜索 - 宜立方商城</title>
+<title>${query} - 商品搜索</title>
 	<link rel="stylesheet" type="text/css" href="/css/productList.css" />
 <link rel="stylesheet" type="text/css" href="/css/base_w1200.css" />
 <link rel="stylesheet" type="text/css" href="/css/common.css" />
@@ -38,7 +38,7 @@
         <div class="pagin">
           <span class="txt"><span class="n">${page }</span>/${totalPages }</span>
           <span class="prev">上一页</span><span class="next">下一页</span>       	</div>
-        <div class="total">共<span>${recourdCount }</span>个商品</div>
+        <div class="total">共<span>${recordCount }</span>个商品</div>
       </div>
     </div>
         

@@ -34,20 +34,20 @@ public class JedisTest {
         jedisPool.close();
     }
 
-    @Test
-    public void testJedisCluster() throws Exception{
-        //创建jediscluster对象。有个参数nodes是个set，包含host和port
-        Set<HostAndPort> nodes = new HashSet<>();
-        nodes.add(new HostAndPort("127.0.0.1", 7001));
-        nodes.add(new HostAndPort("127.0.0.1", 7002));
-        nodes.add(new HostAndPort("127.0.0.1", 7003));
-        nodes.add(new HostAndPort("127.0.0.1", 7004));
-        nodes.add(new HostAndPort("127.0.0.1", 7005));
-        nodes.add(new HostAndPort("127.0.0.1", 7006));
-        JedisCluster jedisCluster = new JedisCluster(nodes);
-
-        jedisCluster.set("testKKK", "123333");
-        String s = jedisCluster.get("testKKK");
-        System.out.println(s);
-    }
+//    @Test
+//    public void testJedisCluster() throws Exception{
+//        //创建jediscluster对象。有个参数nodes是个set，包含host和port
+//        Set<HostAndPort> nodes = new HashSet<>();
+//        nodes.add(new HostAndPort("127.0.0.1", 7001));
+//        nodes.add(new HostAndPort("127.0.0.1", 7002));
+//        nodes.add(new HostAndPort("127.0.0.1", 7003));
+//        nodes.add(new HostAndPort("127.0.0.1", 7004));
+//        nodes.add(new HostAndPort("127.0.0.1", 7005));
+//        nodes.add(new HostAndPort("127.0.0.1", 7006));
+//        JedisCluster jedisCluster = new JedisCluster(nodes);
+//
+//        jedisCluster.set("testKKK", "123333");
+//        String s = jedisCluster.get("testKKK");
+//        System.out.println(s);
+//    }
 }
