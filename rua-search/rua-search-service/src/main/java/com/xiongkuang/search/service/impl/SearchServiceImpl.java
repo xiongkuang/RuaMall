@@ -8,6 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 /**
+ * 根据条件查询结果
  * Created by xiongkuang on 13/12/2017.
  */
 @Service

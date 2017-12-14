@@ -57,6 +57,7 @@
           <element id="library" level="project" name="Maven: org.codehaus.woodstox:woodstox-core-asl:4.4.1" />
           <element id="library" level="project" name="Maven: org.noggit:noggit:0.8" />
           <element id="library" level="project" name="Maven: org.slf4j:jcl-over-slf4j:1.7.7" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-all:5.15.2" />
           <element id="archive" name="rua-common-1.0-SNAPSHOT.jar">
             <element id="module-output" name="rua-common" />
           </element>

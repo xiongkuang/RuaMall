@@ -12,6 +12,7 @@
         <module>rua-content</module>
         <module>rua-search</module>
         <module>rua-search-web</module>
+        <module>rua-item-web</module>
     </modules>
     <packaging>pom</packaging>
     <!-- 集中定义依赖版本号 -->
@@ -41,7 +42,7 @@
         <dubbo.version>2.5.6</dubbo.version>
         <zookeeper.version>3.4.10</zookeeper.version>
         <zkclient.version>0.1</zkclient.version>
-        <activemq.version>5.11.2</activemq.version>
+        <activemq.version>5.15.2</activemq.version>
         <freemarker.version>2.3.23</freemarker.version>
         <quartz.version>2.2.2</quartz.version>
         <javassist.version>3.21.0-GA</javassist.version>

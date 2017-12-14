@@ -10,6 +10,7 @@
         <module name="rua-content-interface" />
         <module name="rua-content-service" />
         <module name="rua-front-web" />
+        <module name="rua-item-web" />
         <module name="rua-manager-dao" />
         <module name="rua-manager-interface" />
         <module name="rua-manager-pojo" />
@@ -26,6 +27,7 @@
       <module name="rua-content-interface" target="1.8" />
       <module name="rua-content-service" target="1.8" />
       <module name="rua-front-web" target="1.8" />
+      <module name="rua-item-web" target="1.8" />
       <module name="rua-manager" target="1.8" />
       <module name="rua-manager-dao" target="1.8" />
       <module name="rua-manager-interface" target="1.8" />

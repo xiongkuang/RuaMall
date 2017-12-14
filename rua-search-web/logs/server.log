@@ -1,0 +1,429 @@
+
+
+[INFO ] 2017-12-14 23:36:29,185 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'rua-search-web': initialization started
+
+
+[INFO ] 2017-12-14 23:36:29,251 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing WebApplicationContext for namespace 'rua-search-web-servlet': startup date [Thu Dec 14 23:36:29 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-14 23:36:29,362 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [spring/springmvc.xml]
+
+
+[INFO ] 2017-12-14 23:36:30,246 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2017-12-14 23:36:30,727 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:155)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2017-12-14 23:36:32,273 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:223)
+ [DUBBO] Load registry store file /Users/xiongkuang/.dubbo/dubbo-registry-127.0.0.1.cache, data: {com.xiongkuang.search.service.SearchItemService=empty://192.168.1.3/com.xiongkuang.search.service.SearchItemService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=55178&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513099176690 empty://192.168.1.3/com.xiongkuang.search.service.SearchItemService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=55178&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513099176690 dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchItemService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=55074&side=provider&timeout=600000&timestamp=1513098562361, com.xiongkuang.service.ItemService=empty://192.168.1.3:20880/com.xiongkuang.service.ItemService?anyhost=true&application=rua-manager&category=configurators&check=false&dubbo=2.5.6&generic=false&interface=com.xiongkuang.service.ItemService&methods=getItemList,addItem,deleteItem,reShelfItem,getItemById,offShelfItem,updateItem,getDescById&pid=69730&side=provider&timeout=600000&timestamp=1513265767824, com.xiongkuang.content.service.ContentCategoryService=empty://192.168.1.3/com.xiongkuang.content.service.ContentCategoryService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69732&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265764835 empty://192.168.1.3/com.xiongkuang.content.service.ContentCategoryService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69732&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265764835 dubbo://192.168.1.3:20881/com.xiongkuang.content.service.ContentCategoryService?anyhost=true&application=rua-content&dubbo=2.5.6&generic=false&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69726&side=provider&timeout=600000&timestamp=1513265705808, com.xiongkuang.service.ItemCatService=empty://192.168.1.3:20880/com.xiongkuang.service.ItemCatService?anyhost=true&application=rua-manager&category=configurators&check=false&dubbo=2.5.6&generic=false&interface=com.xiongkuang.service.ItemCatService&methods=getItemCatList&pid=69730&side=provider&timeout=600000&timestamp=1513265771936, com.xiongkuang.search.service.SearchService=empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=55176&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513099160412 empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=55176&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513099160412 dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=55074&side=provider&timeout=600000&timestamp=1513098563126, com.xiongkuang.content.service.ContentService=empty://192.168.1.3/com.xiongkuang.content.service.ContentService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69732&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265768323 empty://192.168.1.3/com.xiongkuang.content.service.ContentService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69732&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265768323 dubbo://192.168.1.3:20881/com.xiongkuang.content.service.ContentService?anyhost=true&application=rua-content&dubbo=2.5.6&generic=false&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69726&side=provider&timeout=600000&timestamp=1513265707086}, dubbo version: 2.5.6, current host: 127.0.0.1
+
+
+[INFO ] 2017-12-14 23:36:32,360 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2017-12-14 23:36:32,408 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT
+
+
+[INFO ] 2017-12-14 23:36:32,409 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=192.168.1.3
+
+
+[INFO ] 2017-12-14 23:36:32,410 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_51
+
+
+[INFO ] 2017-12-14 23:36:32,410 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2017-12-14 23:36:32,411 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre
+
+
+[INFO ] 2017-12-14 23:36:32,413 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar
+
+
+[INFO ] 2017-12-14 23:36:32,414 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=/Users/xiongkuang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+
+
+[INFO ] 2017-12-14 23:36:32,414 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=/var/folders/fl/vtpcgsss6v36gmfrg1hgqkhw0000gn/T/
+
+
+[INFO ] 2017-12-14 23:36:32,415 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2017-12-14 23:36:32,416 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Mac OS X
+
+
+[INFO ] 2017-12-14 23:36:32,512 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=x86_64
+
+
+[INFO ] 2017-12-14 23:36:32,516 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=10.13.1
+
+
+[INFO ] 2017-12-14 23:36:32,521 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=xiongkuang
+
+
+[INFO ] 2017-12-14 23:36:32,524 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=/Users/xiongkuang
+
+
+[INFO ] 2017-12-14 23:36:32,524 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=/Users/xiongkuang/Desktop/practice/RuaMall/rua-search-web
+
+
+[INFO ] 2017-12-14 23:36:32,529 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@54e84606
+
+
+[INFO ] 2017-12-14 23:36:32,645 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2017-12-14 23:36:32,684 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 127.0.0.1/127.0.0.1:2181, initiating session
+
+
+[INFO ] 2017-12-14 23:36:32,700 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 127.0.0.1/127.0.0.1:2181, sessionid = 0x16026ab6d5806e2, negotiated timeout = 30000
+
+
+[INFO ] 2017-12-14 23:36:32,703 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2017-12-14 23:36:32,757 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:293)
+ [DUBBO] Register: consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=consumers&check=false&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:36:32,794 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:316)
+ [DUBBO] Subscribe: consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:36:32,872 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:404)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, urls: [empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[WARN ] 2017-12-14 23:36:32,883 method:org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:551)
+Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'searchController': Unsatisfied dependency expressed through field 'searchService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'searchService': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Failed to check the status of the service com.xiongkuang.search.service.SearchService. No provider available for the service com.xiongkuang.search.service.SearchService from the url zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=rua-search-web&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100 to the consumer 192.168.1.3 use dubbo version 2.5.6
+
+
+[ERROR] 2017-12-14 23:36:32,887 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:502)
+Context initialization failed
+org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'searchController': Unsatisfied dependency expressed through field 'searchService'; nested exception is org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'searchService': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Failed to check the status of the service com.xiongkuang.search.service.SearchService. No provider available for the service com.xiongkuang.search.service.SearchService from the url zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=rua-search-web&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100 to the consumer 192.168.1.3 use dubbo version 2.5.6
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:588)
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:88)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessPropertyValues(AutowiredAnnotationBeanPostProcessor.java:366)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1264)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:553)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:483)
+	at org.springframework.beans.factory.support.AbstractBeanFactory$1.getObject(AbstractBeanFactory.java:306)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:230)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:302)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:197)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:761)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:867)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:543)
+	at org.springframework.web.servlet.FrameworkServlet.configureAndRefreshWebApplicationContext(FrameworkServlet.java:668)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:634)
+	at org.springframework.web.servlet.FrameworkServlet.createWebApplicationContext(FrameworkServlet.java:682)
+	at org.springframework.web.servlet.FrameworkServlet.initWebApplicationContext(FrameworkServlet.java:553)
+	at org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:494)
+	at org.springframework.web.servlet.HttpServletBean.init(HttpServletBean.java:171)
+	at javax.servlet.GenericServlet.init(GenericServlet.java:160)
+	at org.apache.catalina.core.StandardWrapper.initServlet(StandardWrapper.java:1280)
+	at org.apache.catalina.core.StandardWrapper.loadServlet(StandardWrapper.java:1193)
+	at org.apache.catalina.core.StandardWrapper.load(StandardWrapper.java:1088)
+	at org.apache.catalina.core.StandardContext.loadOnStartup(StandardContext.java:5176)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5460)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'searchService': FactoryBean threw exception on object creation; nested exception is java.lang.IllegalStateException: Failed to check the status of the service com.xiongkuang.search.service.SearchService. No provider available for the service com.xiongkuang.search.service.SearchService from the url zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=rua-search-web&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100 to the consumer 192.168.1.3 use dubbo version 2.5.6
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:175)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.getObjectFromFactoryBean(FactoryBeanRegistrySupport.java:103)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getObjectForBeanInstance(AbstractBeanFactory.java:1634)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:254)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:202)
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:208)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.addCandidateEntry(DefaultListableBeanFactory.java:1316)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.findAutowireCandidates(DefaultListableBeanFactory.java:1282)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1101)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1066)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:585)
+	... 31 more
+Caused by: java.lang.IllegalStateException: Failed to check the status of the service com.xiongkuang.search.service.SearchService. No provider available for the service com.xiongkuang.search.service.SearchService from the url zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?application=rua-search-web&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100 to the consumer 192.168.1.3 use dubbo version 2.5.6
+	at com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:407)
+	at com.alibaba.dubbo.config.ReferenceConfig.init(ReferenceConfig.java:320)
+	at com.alibaba.dubbo.config.ReferenceConfig.get(ReferenceConfig.java:159)
+	at com.alibaba.dubbo.config.spring.ReferenceBean.getObject(ReferenceBean.java:65)
+	at org.springframework.beans.factory.support.FactoryBeanRegistrySupport.doGetObjectFromFactoryBean(FactoryBeanRegistrySupport.java:168)
+	... 41 more
+
+
+[INFO ] 2017-12-14 23:36:37,133 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:404)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265792100, urls: [dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69734&side=provider&timeout=600000&timestamp=1513265797078], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:36:37,475 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:275)
+ [DUBBO] Successed connect to server /192.168.1.3:20882 from NettyClient 192.168.1.3 using dubbo version 2.5.6, channel is NettyChannel [channel=[id: 0xf8a60325, /192.168.1.3:62444 => /192.168.1.3:20882]], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:36:37,476 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:93)
+ [DUBBO] Start NettyClient xiongkuangdeMacBook-Pro.local/192.168.1.3 connect to the server /192.168.1.3:20882, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:37:32,571 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:122)
+ [DUBBO] disconected from /192.168.1.3:20882,url:dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&remote.timestamp=1513265797078&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513265792100, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[WARN ] 2017-12-14 23:37:33,631 method:com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:172)
+ [DUBBO] client reconnect to 192.168.1.3:20882 find error . url: dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&remote.timestamp=1513265797078&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513265792100, dubbo version: 2.5.6, current host: 192.168.1.3
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69736&remote.timestamp=1513265797078&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513265792100) failed to connect to server /192.168.1.3:20882, error message is:Connection refused: /192.168.1.3:20882
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:124)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:268)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:157)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: /192.168.1.3:20882
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	... 3 more
+
+
+[INFO ] 2017-12-14 23:40:44,731 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:489)
+FrameworkServlet 'rua-search-web': initialization started
+
+
+[INFO ] 2017-12-14 23:40:44,829 method:org.springframework.context.support.AbstractApplicationContext.prepareRefresh(AbstractApplicationContext.java:583)
+Refreshing WebApplicationContext for namespace 'rua-search-web-servlet': startup date [Thu Dec 14 23:40:44 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-14 23:40:44,924 method:org.springframework.beans.factory.xml.XmlBeanDefinitionReader.loadBeanDefinitions(XmlBeanDefinitionReader.java:317)
+Loading XML bean definitions from class path resource [spring/springmvc.xml]
+
+
+[INFO ] 2017-12-14 23:40:45,579 method:
+using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+
+
+[INFO ] 2017-12-14 23:40:45,847 method:org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.<init>(AutowiredAnnotationBeanPostProcessor.java:155)
+JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+
+
+[INFO ] 2017-12-14 23:40:46,397 method:com.alibaba.dubbo.registry.support.AbstractRegistry.loadProperties(AbstractRegistry.java:223)
+ [DUBBO] Load registry store file /Users/xiongkuang/.dubbo/dubbo-registry-127.0.0.1.cache, data: {com.xiongkuang.search.service.SearchItemService=empty://192.168.1.3/com.xiongkuang.search.service.SearchItemService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958893 empty://192.168.1.3/com.xiongkuang.search.service.SearchItemService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958893 dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchItemService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchItemService&methods=importAllItem&pid=69755&side=provider&timeout=600000&timestamp=1513265882391, com.xiongkuang.service.ItemService=empty://192.168.1.3/com.xiongkuang.service.ItemService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.service.ItemService&methods=getItemList,addItem,deleteItem,reShelfItem,getItemById,offShelfItem,updateItem,getDescById&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958782 empty://192.168.1.3/com.xiongkuang.service.ItemService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.service.ItemService&methods=getItemList,addItem,deleteItem,reShelfItem,getItemById,offShelfItem,updateItem,getDescById&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958782 dubbo://192.168.1.3:20880/com.xiongkuang.service.ItemService?anyhost=true&application=rua-manager&dubbo=2.5.6&generic=false&interface=com.xiongkuang.service.ItemService&methods=getItemList,addItem,deleteItem,reShelfItem,getItemById,offShelfItem,updateItem,getDescById&pid=69730&side=provider&timeout=600000&timestamp=1513265767824, com.xiongkuang.content.service.ContentCategoryService=empty://192.168.1.3/com.xiongkuang.content.service.ContentCategoryService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265957359 empty://192.168.1.3/com.xiongkuang.content.service.ContentCategoryService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265957359 dubbo://192.168.1.3:20881/com.xiongkuang.content.service.ContentCategoryService?anyhost=true&application=rua-content&dubbo=2.5.6&generic=false&interface=com.xiongkuang.content.service.ContentCategoryService&methods=addContentCategory,renameCategory,getContentCatList,deleteCategory&pid=69726&side=provider&timeout=600000&timestamp=1513265705808, com.xiongkuang.service.ItemCatService=empty://192.168.1.3/com.xiongkuang.service.ItemCatService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.service.ItemCatService&methods=getItemCatList&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958692 empty://192.168.1.3/com.xiongkuang.service.ItemCatService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.service.ItemCatService&methods=getItemCatList&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958692 dubbo://192.168.1.3:20880/com.xiongkuang.service.ItemCatService?anyhost=true&application=rua-manager&dubbo=2.5.6&generic=false&interface=com.xiongkuang.service.ItemCatService&methods=getItemCatList&pid=69730&side=provider&timeout=600000&timestamp=1513265771936, com.xiongkuang.search.service.SearchService=empty://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search&category=configurators&check=false&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69755&side=provider&timeout=600000&timestamp=1513265883141, com.xiongkuang.content.service.ContentService=empty://192.168.1.3/com.xiongkuang.content.service.ContentService?application=rua-manager-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958617 empty://192.168.1.3/com.xiongkuang.content.service.ContentService?application=rua-manager-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69768&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513265958617 dubbo://192.168.1.3:20881/com.xiongkuang.content.service.ContentService?anyhost=true&application=rua-content&dubbo=2.5.6&generic=false&interface=com.xiongkuang.content.service.ContentService&methods=getContentListByCid,showContentListByCategoryId,editContent,addContent,deleteContent&pid=69726&side=provider&timeout=600000&timestamp=1513265707086}, dubbo version: 2.5.6, current host: 127.0.0.1
+
+
+[INFO ] 2017-12-14 23:40:46,419 method:org.I0Itec.zkclient.ZkEventThread.run(ZkEventThread.java:64)
+Starting ZkClient event thread.
+
+
+[INFO ] 2017-12-14 23:40:46,463 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:zookeeper.version=3.4.10-39d3a4f269333c922ed3db283be479f9deacaa0f, built on 03/23/2017 10:13 GMT
+
+
+[INFO ] 2017-12-14 23:40:46,464 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:host.name=192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:46,465 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.version=1.8.0_51
+
+
+[INFO ] 2017-12-14 23:40:46,465 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.vendor=Oracle Corporation
+
+
+[INFO ] 2017-12-14 23:40:46,466 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.home=/Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre
+
+
+[INFO ] 2017-12-14 23:40:46,466 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.class.path=/Applications/IntelliJ IDEA.app/Contents/plugins/maven/lib/maven3/boot/plexus-classworlds-2.5.2.jar:/Applications/IntelliJ IDEA.app/Contents/lib/idea_rt.jar
+
+
+[INFO ] 2017-12-14 23:40:46,466 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.library.path=/Users/xiongkuang/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+
+
+[INFO ] 2017-12-14 23:40:46,467 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.io.tmpdir=/var/folders/fl/vtpcgsss6v36gmfrg1hgqkhw0000gn/T/
+
+
+[INFO ] 2017-12-14 23:40:46,467 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:java.compiler=<NA>
+
+
+[INFO ] 2017-12-14 23:40:46,468 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.name=Mac OS X
+
+
+[INFO ] 2017-12-14 23:40:46,469 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.arch=x86_64
+
+
+[INFO ] 2017-12-14 23:40:46,470 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:os.version=10.13.1
+
+
+[INFO ] 2017-12-14 23:40:46,471 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.name=xiongkuang
+
+
+[INFO ] 2017-12-14 23:40:46,471 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.home=/Users/xiongkuang
+
+
+[INFO ] 2017-12-14 23:40:46,471 method:org.apache.zookeeper.Environment.logEnv(Environment.java:100)
+Client environment:user.dir=/Users/xiongkuang/Desktop/practice/RuaMall/rua-search-web
+
+
+[INFO ] 2017-12-14 23:40:46,473 method:org.apache.zookeeper.ZooKeeper.<init>(ZooKeeper.java:438)
+Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=30000 watcher=org.I0Itec.zkclient.ZkClient@2bc7c711
+
+
+[INFO ] 2017-12-14 23:40:46,508 method:org.apache.zookeeper.ClientCnxn$SendThread.logStartConnect(ClientCnxn.java:1032)
+Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+
+
+[INFO ] 2017-12-14 23:40:46,534 method:org.apache.zookeeper.ClientCnxn$SendThread.primeConnection(ClientCnxn.java:876)
+Socket connection established to 127.0.0.1/127.0.0.1:2181, initiating session
+
+
+[INFO ] 2017-12-14 23:40:46,545 method:org.apache.zookeeper.ClientCnxn$SendThread.onConnected(ClientCnxn.java:1299)
+Session establishment complete on server 127.0.0.1/127.0.0.1:2181, sessionid = 0x16026ab6d5806e6, negotiated timeout = 30000
+
+
+[INFO ] 2017-12-14 23:40:46,552 method:org.I0Itec.zkclient.ZkClient.processStateChanged(ZkClient.java:449)
+zookeeper state changed (SyncConnected)
+
+
+[INFO ] 2017-12-14 23:40:46,574 method:com.alibaba.dubbo.registry.support.AbstractRegistry.register(AbstractRegistry.java:293)
+ [DUBBO] Register: consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=consumers&check=false&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:46,614 method:com.alibaba.dubbo.registry.support.AbstractRegistry.subscribe(AbstractRegistry.java:316)
+ [DUBBO] Subscribe: consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:46,683 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:404)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, urls: [dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69755&side=provider&timeout=600000&timestamp=1513265883141, empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=configurators&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:47,022 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:275)
+ [DUBBO] Successed connect to server /192.168.1.3:20882 from NettyClient 192.168.1.3 using dubbo version 2.5.6, channel is NettyChannel [channel=[id: 0x7e53aae4, /192.168.1.3:62491 => /192.168.1.3:20882]], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:47,023 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:93)
+ [DUBBO] Start NettyClient xiongkuangdeMacBook-Pro.local/192.168.1.3 connect to the server /192.168.1.3:20882, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:47,131 method:com.alibaba.dubbo.config.ReferenceConfig.createProxy(ReferenceConfig.java:410)
+ [DUBBO] Refer dubbo service com.xiongkuang.search.service.SearchService from url zookeeper://127.0.0.1:2181/com.alibaba.dubbo.registry.RegistryService?anyhost=true&application=rua-search-web&check=false&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&remote.timestamp=1513265883141&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-14 23:40:47,467 method:org.springframework.web.servlet.handler.AbstractHandlerMethodMapping$MappingRegistry.register(AbstractHandlerMethodMapping.java:543)
+Mapped "{[/search]}" onto public java.lang.String com.xiongkuang.search.controller.SearchController.earchItemList(org.springframework.ui.Model,java.lang.String,java.lang.Integer) throws java.lang.Exception
+
+
+[INFO ] 2017-12-14 23:40:47,876 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:534)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'rua-search-web-servlet': startup date [Thu Dec 14 23:40:44 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-14 23:40:47,956 method:org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.initControllerAdviceCache(RequestMappingHandlerAdapter.java:534)
+Looking for @ControllerAdvice: WebApplicationContext for namespace 'rua-search-web-servlet': startup date [Thu Dec 14 23:40:44 CST 2017]; root of context hierarchy
+
+
+[INFO ] 2017-12-14 23:40:48,134 method:org.springframework.web.servlet.FrameworkServlet.initServletBean(FrameworkServlet.java:508)
+FrameworkServlet 'rua-search-web': initialization completed in 3393 ms
+
+
+[INFO ] 2017-12-15 00:18:47,617 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:122)
+ [DUBBO] disconected from /192.168.1.3:20882,url:dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&remote.timestamp=1513265883141&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[WARN ] 2017-12-15 00:18:49,209 method:com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:172)
+ [DUBBO] client reconnect to 192.168.1.3:20882 find error . url: dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&remote.timestamp=1513265883141&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3
+com.alibaba.dubbo.remoting.RemotingException: client(url: dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&remote.timestamp=1513265883141&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513266046316) failed to connect to server /192.168.1.3:20882, error message is:Connection refused: /192.168.1.3:20882
+	at com.alibaba.dubbo.remoting.transport.netty.NettyClient.doConnect(NettyClient.java:124)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:268)
+	at com.alibaba.dubbo.remoting.transport.AbstractClient$1.run(AbstractClient.java:157)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.ConnectException: Connection refused: /192.168.1.3:20882
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:717)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.connect(NioClientBoss.java:152)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.processSelectedKeys(NioClientBoss.java:105)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.process(NioClientBoss.java:79)
+	at org.jboss.netty.channel.socket.nio.AbstractNioSelector.run(AbstractNioSelector.java:337)
+	at org.jboss.netty.channel.socket.nio.NioClientBoss.run(NioClientBoss.java:42)
+	at org.jboss.netty.util.ThreadRenamingRunnable.run(ThreadRenamingRunnable.java:108)
+	at org.jboss.netty.util.internal.DeadLockProofWorker$1.run(DeadLockProofWorker.java:42)
+	... 3 more
+
+
+[INFO ] 2017-12-15 00:19:16,064 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:404)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, urls: [empty://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-15 00:29:03,233 method:com.alibaba.dubbo.registry.support.AbstractRegistry.notify(AbstractRegistry.java:404)
+ [DUBBO] Notify urls for subscribe url consumer://192.168.1.3/com.xiongkuang.search.service.SearchService?application=rua-search-web&category=providers,configurators,routers&dubbo=2.5.6&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&revision=1.0-SNAPSHOT&side=consumer&timestamp=1513266046316, urls: [dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search&dubbo=2.5.6&generic=false&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=70199&side=provider&timeout=600000&timestamp=1513268943112], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-15 00:29:03,334 method:com.alibaba.dubbo.remoting.transport.AbstractClient.connect(AbstractClient.java:275)
+ [DUBBO] Successed connect to server /192.168.1.3:20882 from NettyClient 192.168.1.3 using dubbo version 2.5.6, channel is NettyChannel [channel=[id: 0xd10d1aa9, /192.168.1.3:63384 => /192.168.1.3:20882]], dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[INFO ] 2017-12-15 00:29:03,353 method:com.alibaba.dubbo.remoting.transport.AbstractClient.<init>(AbstractClient.java:93)
+ [DUBBO] Start NettyClient xiongkuangdeMacBook-Pro.local/192.168.1.3 connect to the server /192.168.1.3:20882, dubbo version: 2.5.6, current host: 192.168.1.3
+
+
+[WARN ] 2017-12-15 00:30:48,510 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1176)
+No mapping found for HTTP request with URI [/item/151326899763001.html] in DispatcherServlet with name 'rua-search-web'
+
+
+[WARN ] 2017-12-15 00:31:05,935 method:org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1176)
+No mapping found for HTTP request with URI [/item/151326899763001.html] in DispatcherServlet with name 'rua-search-web'
+
+
+[INFO ] 2017-12-15 00:44:13,291 method:com.alibaba.dubbo.rpc.protocol.dubbo.DubboProtocol$1.disconnected(DubboProtocol.java:122)
+ [DUBBO] disconected from /192.168.1.3:20882,url:dubbo://192.168.1.3:20882/com.xiongkuang.search.service.SearchService?anyhost=true&application=rua-search-web&check=false&codec=dubbo&dubbo=2.5.6&generic=false&heartbeat=60000&interface=com.xiongkuang.search.service.SearchService&methods=search&pid=69776&remote.timestamp=1513268943112&revision=1.0-SNAPSHOT&side=consumer&timeout=600000&timestamp=1513266046316, dubbo version: 2.5.6, current host: 192.168.1.3

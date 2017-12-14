@@ -15,8 +15,12 @@
     rua-search: 8090
     rua-manager-web：8089
     rua-front-web: 8087
+    rua-item-web: 8084
     zookeeper：2181
+    
     dubbo-admin：8083
+    activeMq: 8161(admin,admin)
+    
     本机enginx:8888   /usr/local/etc/nginx.conf
     本机enginx2:8889
     

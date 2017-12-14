@@ -25,6 +25,8 @@
         <property name="suffix" value=".jsp" />
     </bean>
 
+    <bean class="com.xiongkuang.search.exception.GlobalExceptionResolver"/>
+
     <!-- 引用dubbo服务 -->
     <dubbo:application name="rua-search-web"/>
     <dubbo:registry protocol="zookeeper" address="127.0.0.1:2181"/>

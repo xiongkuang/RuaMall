@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/rua-content/rua-content-service" />
     <file type="web" url="file://$PROJECT_DIR$/rua-front-web" />
+    <file type="web" url="file://$PROJECT_DIR$/rua-item-web" />
     <file type="web" url="file://$PROJECT_DIR$/rua-manager-web" />
     <file type="web" url="file://$PROJECT_DIR$/rua-manager/rua-manager-service" />
     <file type="web" url="file://$PROJECT_DIR$/rua-manager/rua-manager-web" />
