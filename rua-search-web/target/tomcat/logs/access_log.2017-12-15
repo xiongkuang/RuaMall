@@ -26,3 +26,5 @@
 0:0:0:0:0:0:0:1 - - [15/Dec/2017:00:30:48 +0800] "GET /item/151326899763001.html HTTP/1.1" 404 949 http-bio-8086-exec-7 7
 0:0:0:0:0:0:0:1 - - [15/Dec/2017:00:31:05 +0800] "GET /item/151326899763001.html HTTP/1.1" 404 949 http-bio-8086-exec-2 8
 0:0:0:0:0:0:0:1 - - [15/Dec/2017:00:31:34 +0800] "GET /search.html?keyword=%E6%88%91%E8%A7%89%E5%BE%97%E8%BF%99%E6%AC%A1%E5%A4%B1%E8%B4%A5 HTTP/1.1" 200 22456 http-bio-8086-exec-2 87
+0:0:0:0:0:0:0:1 - - [15/Dec/2017:01:34:51 +0800] "GET /search.html?keyword=%E6%88%91%E8%A7%89%E5%BE%97%E8%BF%99%E6%AC%A1%E5%A4%B1%E8%B4%A5 HTTP/1.1" 200 22456 http-bio-8086-exec-1 2304
+0:0:0:0:0:0:0:1 - - [15/Dec/2017:01:35:07 +0800] "GET /search.html?keyword=%E5%A4%B1%E8%B4%A5 HTTP/1.1" 200 22342 http-bio-8086-exec-3 43

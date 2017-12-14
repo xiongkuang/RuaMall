@@ -2,8 +2,10 @@ package com.xiongkuang.service.impl;
 
 import com.github.pagehelper.PageHelper;
 import com.github.pagehelper.PageInfo;
+import com.xiongkuang.common.jedis.JedisClient;
 import com.xiongkuang.common.pojo.EasyUiDataGridResult;
 import com.xiongkuang.common.utils.IDUtils;
+import com.xiongkuang.common.utils.JsonUtils;
 import com.xiongkuang.common.utils.ResponseResult;
 import com.xiongkuang.mapper.TbItemDescMapper;
 import com.xiongkuang.mapper.TbItemMapper;
@@ -11,7 +13,9 @@ import com.xiongkuang.pojo.TbItem;
 import com.xiongkuang.pojo.TbItemDesc;
 import com.xiongkuang.pojo.TbItemExample;
 import com.xiongkuang.service.ItemService;
+import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.jms.core.JmsTemplate;
 import org.springframework.jms.core.MessageCreator;
 import org.springframework.stereotype.Service;
@@ -39,8 +43,30 @@ public class ItemServiceImpl implements ItemService {
     @Resource(name = "topicDestination")
     private Destination topicDestination;
 
+    @Autowired
+    private JedisClient jedisClient;
+
+    @Value("${ITEM_REDIS_PRE}")
+    private String ITEM_REDIS_PRE;
+
+    @Value("${ITEM_CACHE_EXPIRE}")
+    private Integer ITEM_CACHE_EXPIRE;
+
     @Override
     public TbItem getItemById(Long itemId) {
+
+        //添加缓存
+        try {
+            String json = jedisClient.get(ITEM_REDIS_PRE + ":" + itemId+":BASE");
+            if(StringUtils.isNoneBlank(json)){
+                TbItem tbItem = JsonUtils.jsonToPojo(json, TbItem.class);
+                return tbItem;
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+        //如果缓存没有，查询数据库
 
         //方法1
 //        TbItem tbItem = itemMapper.selectByPrimaryKey(itemId);
@@ -52,6 +78,13 @@ public class ItemServiceImpl implements ItemService {
         criteria.andIdEqualTo(itemId);
         List<TbItem> list = itemMapper.selectByExample(itemExample);
         if (list != null && list.size()>0){
+            //把结果添加到缓存
+            try {
+                jedisClient.set(ITEM_REDIS_PRE + ":" + itemId+":BASE", JsonUtils.objectToJson(list.get(0)));
+                jedisClient.expire(ITEM_REDIS_PRE + ":" +itemId+":BASE", ITEM_CACHE_EXPIRE);
+            }catch (Exception e){
+                e.printStackTrace();
+            }
             return list.get(0);
         }
         return null;
@@ -146,7 +179,23 @@ public class ItemServiceImpl implements ItemService {
 
     @Override
     public TbItemDesc getDescById(Long id) {
+        try {
+            String json = jedisClient.get(ITEM_REDIS_PRE + ":" + id+":DESC");
+            if(StringUtils.isNoneBlank(json)){
+                TbItemDesc desc = JsonUtils.jsonToPojo(json, TbItemDesc.class);
+                return desc;
+            }
+        }catch (Exception e){
+            e.printStackTrace();
+        }
         TbItemDesc desc = itemDescMapper.selectByPrimaryKey(id);
+
+        try {
+            jedisClient.set(ITEM_REDIS_PRE + ":" + id+":DESC", JsonUtils.objectToJson(desc));
+            jedisClient.expire(ITEM_REDIS_PRE + ":" +id+":DESC", ITEM_CACHE_EXPIRE);
+        }catch (Exception e){
+            e.printStackTrace();
+        }
         return desc;
     }
 
