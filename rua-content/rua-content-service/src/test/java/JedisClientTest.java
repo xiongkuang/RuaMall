@@ -16,7 +16,7 @@ public class JedisClientTest {
         ApplicationContext applicationContext =
                 new ClassPathXmlApplicationContext("classpath:spring/applicationContext-redis.xml");
         JedisClient client = applicationContext.getBean(JedisClient.class);
-        client.set("myName", "xiongkuang");
+        client.set("hhhaaa", "xiongkuang");
         String name = client.get("myName");
         System.out.println(name);
 

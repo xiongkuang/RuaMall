@@ -19,6 +19,10 @@
       <module fileurl="file://$PROJECT_DIR$/rua-search/rua-search-interface/rua-search-interface.iml" filepath="$PROJECT_DIR$/rua-search/rua-search-interface/rua-search-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-search/rua-search-service/rua-search-service.iml" filepath="$PROJECT_DIR$/rua-search/rua-search-service/rua-search-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-search-web/rua-search-web.iml" filepath="$PROJECT_DIR$/rua-search-web/rua-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-sso/rua-sso.iml" filepath="$PROJECT_DIR$/rua-sso/rua-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/rua-sso-interface.iml" filepath="$PROJECT_DIR$/rua-sso/rua-sso-interface/rua-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-sso/rua-sso-service/rua-sso-service.iml" filepath="$PROJECT_DIR$/rua-sso/rua-sso-service/rua-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-sso-web/rua-sso-web.iml" filepath="$PROJECT_DIR$/rua-sso-web/rua-sso-web.iml" />
     </modules>
   </component>
 </project>

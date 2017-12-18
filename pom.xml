@@ -13,6 +13,8 @@
         <module>rua-search</module>
         <module>rua-search-web</module>
         <module>rua-item-web</module>
+        <module>rua-sso</module>
+        <module>rua-sso-web</module>
     </modules>
     <packaging>pom</packaging>
     <!-- 集中定义依赖版本号 -->

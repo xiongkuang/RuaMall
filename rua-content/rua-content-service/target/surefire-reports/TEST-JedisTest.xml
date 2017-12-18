@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="2" failures="0" name="JedisTest" time="0.197" errors="0" skipped="0">
+<testsuite tests="2" failures="0" name="JedisTest" time="0.252" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2017.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.13.1"/>
+    <property name="os.version" value="10.13.2"/>
     <property name="user.home" value="/Users/xiongkuang"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
@@ -61,6 +61,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="JedisTest" name="testJedis" time="0.072"/>
-  <testcase classname="JedisTest" name="testJedisPool" time="0.125"/>
+  <testcase classname="JedisTest" name="testJedis" time="0.124"/>
+  <testcase classname="JedisTest" name="testJedisPool" time="0.128"/>
 </testsuite>

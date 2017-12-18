@@ -18,6 +18,10 @@
     <file url="file://$PROJECT_DIR$/rua-search-web" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rua-search/rua-search-interface" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rua-search/rua-search-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-sso-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-sso/rua-sso-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-sso/rua-sso-service" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

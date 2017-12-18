@@ -19,6 +19,9 @@
         <module name="rua-search-interface" />
         <module name="rua-search-service" />
         <module name="rua-search-web" />
+        <module name="rua-sso-interface" />
+        <module name="rua-sso-service" />
+        <module name="rua-sso-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -38,6 +41,10 @@
       <module name="rua-search-interface" target="1.8" />
       <module name="rua-search-service" target="1.8" />
       <module name="rua-search-web" target="1.8" />
+      <module name="rua-sso" target="1.8" />
+      <module name="rua-sso-interface" target="1.8" />
+      <module name="rua-sso-service" target="1.8" />
+      <module name="rua-sso-web" target="1.8" />
       <module name="RuaMall" target="1.8" />
       <module name="ruamanagerpojo" target="1.8" />
     </bytecodeTargetLevel>

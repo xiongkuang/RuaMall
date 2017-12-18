@@ -9,16 +9,21 @@
 **端口信息：**
 
     数据库：3306
-    rua-manager：8088
-    rua-content: 8085
-    rua-search-web: 8086
-    rua-search: 8090
-    rua-manager-web：8089
-    rua-front-web: 8087
-    rua-item-web: 8084
+    dubbo-admin：8083
+    
+    rua-sso-web:      8082
+    rua-item-web:     8084
+    rua-content:      8085
+    rua-search-web:   8086
+    rua-front-web:    8087
+    rua-manager：     8088
+    rua-manager-web： 8089
+    rua-search:       8090
+    rua-sso:          8091
+    
+    
     zookeeper：2181
     
-    dubbo-admin：8083
     activeMq: 8161(admin,admin)
     
     本机enginx:8888   /usr/local/etc/nginx.conf
@@ -28,13 +33,20 @@
         rua-manager: 20880
         rua-content: 20881
         rua-search:  20882
+        rua-sso:     20883
+        
     FastDFS服务器：192.168.25.133
 
 
 
-**启动zooKeeper**
+**启动**
 
     ~$ zkServer start
+    ~$ activemq start
+    ~$ solr start
+    ~$ redis-server /usr/local/etc/redis.conf
+    启动图片服务器
+    
     
     
 **redis**
@@ -50,7 +62,7 @@
 
 **solr**
         
-       start solr
+       solr start
        localhost:8983
     
     

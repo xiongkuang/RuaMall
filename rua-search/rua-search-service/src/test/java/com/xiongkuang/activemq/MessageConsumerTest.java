@@ -12,6 +12,6 @@ public class MessageConsumerTest {
     public void msgConsumer() throws Exception{
         ApplicationContext applicationContext = new ClassPathXmlApplicationContext("classpath:spring/applicationContext-activemq.xml");
 
-        System.in.read();
+//        System.in.read();
     }
 }

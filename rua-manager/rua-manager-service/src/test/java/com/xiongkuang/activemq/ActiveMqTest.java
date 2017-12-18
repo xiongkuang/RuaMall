@@ -151,7 +151,7 @@ public class ActiveMqTest {
         });
 
         //等待接受消息
-        System.in.read();
+//        System.in.read();
 
         //关闭
         consumer.close();

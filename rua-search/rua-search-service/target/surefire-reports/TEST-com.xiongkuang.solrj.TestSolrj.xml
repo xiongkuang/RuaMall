@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="5" failures="0" name="com.xiongkuang.solrj.TestSolrj" time="2.52" errors="0" skipped="0">
+<testsuite tests="5" failures="0" name="com.xiongkuang.solrj.TestSolrj" time="1.491" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2017.1"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -34,7 +34,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.13.1"/>
+    <property name="os.version" value="10.13.2"/>
     <property name="user.home" value="/Users/xiongkuang"/>
     <property name="user.timezone" value="Asia/Shanghai"/>
     <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
@@ -61,9 +61,9 @@
     <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="deleteDocument" time="1.314"/>
-  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="testBean" time="0.741"/>
-  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="advancedQueryIndex" time="0.193"/>
-  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="queryIndex" time="0.068"/>
-  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="addDocument" time="0.204"/>
+  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="deleteDocument" time="0.999"/>
+  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="testBean" time="0.284"/>
+  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="advancedQueryIndex" time="0.117"/>
+  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="queryIndex" time="0.025"/>
+  <testcase classname="com.xiongkuang.solrj.TestSolrj" name="addDocument" time="0.066"/>
 </testsuite>

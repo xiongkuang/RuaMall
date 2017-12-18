@@ -1,7 +1,12 @@
 com/xiongkuang/common/utils/JsonUtils.class
+com/xiongkuang/common/utils/CookieUtils.class
+com/xiongkuang/common/jedis/JedisClientPool.class
+com/xiongkuang/common/jedis/JedisClientCluster.class
 com/xiongkuang/common/pojo/SearchResult.class
+com/xiongkuang/common/pojo/SearchItem.class
 com/xiongkuang/common/utils/ResponseResult.class
 com/xiongkuang/common/utils/IDUtils.class
 com/xiongkuang/common/utils/FastDFSClient.class
 com/xiongkuang/common/pojo/EasyUiTreeNode.class
+com/xiongkuang/common/jedis/JedisClient.class
 com/xiongkuang/common/pojo/EasyUiDataGridResult.class
