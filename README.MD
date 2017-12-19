@@ -11,6 +11,7 @@
     数据库：3306
     dubbo-admin：8083
     
+    
     rua-sso-web:      8082
     rua-item-web:     8084
     rua-content:      8085
@@ -20,6 +21,7 @@
     rua-manager-web： 8089
     rua-search:       8090
     rua-sso:          8091
+    rua-cart:         8092
     
     
     zookeeper：2181
@@ -34,6 +36,7 @@
         rua-content: 20881
         rua-search:  20882
         rua-sso:     20883
+        rua-cart:    20884
         
     FastDFS服务器：192.168.25.133
 

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="rua-cart-service:war">
+    <output-path>$PROJECT_DIR$/rua-cart/rua-cart-service/target</output-path>
+    <root id="archive" name="rua-cart-service-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="rua-cart-service:war exploded" />
+    </root>
+  </artifact>
+</component>

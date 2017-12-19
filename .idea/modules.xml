@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/RuaMall.iml" filepath="$PROJECT_DIR$/RuaMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-cart/rua-cart.iml" filepath="$PROJECT_DIR$/rua-cart/rua-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-cart/rua-cart-interface/rua-cart-interface.iml" filepath="$PROJECT_DIR$/rua-cart/rua-cart-interface/rua-cart-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-cart/rua-cart-service/rua-cart-service.iml" filepath="$PROJECT_DIR$/rua-cart/rua-cart-service/rua-cart-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rua-cart-web/rua-cart-web.iml" filepath="$PROJECT_DIR$/rua-cart-web/rua-cart-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-common/rua-common.iml" filepath="$PROJECT_DIR$/rua-common/rua-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-content/rua-content.iml" filepath="$PROJECT_DIR$/rua-content/rua-content.iml" />
       <module fileurl="file://$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" filepath="$PROJECT_DIR$/rua-content/rua-content-interface/rua-content-interface.iml" />

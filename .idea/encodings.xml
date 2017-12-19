@@ -2,6 +2,10 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-cart-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-cart/rua-cart-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rua-cart/rua-cart-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rua-common" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rua-content" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/rua-content/rua-content-interface" charset="UTF-8" />

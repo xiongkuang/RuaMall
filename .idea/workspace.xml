@@ -2,283 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db83e925-9b4d-4bdb-9788-2d82601292c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/06f42c372620f92b40da77a8b23cdf7f.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/btn1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/btn2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/btn3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/btn4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/caplock.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/close.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/find.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/icon8.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/login_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/login_bg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/login_bottom.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/login_main.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/login_top.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/loginbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/loginicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/loginregbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/loginregbg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/pic2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/pic3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/recommend8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/reg_btn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/reg_tip.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/tabbg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/tabbg1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/images/tz_tips.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_sso_service_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_sso_service_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_sso_web_war.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_sso_web_war_exploded.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/CookieUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/ftl/hello.ftl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-item-web/src/test/java/com/xiongkuang/freemarker/FreemarkerTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/rua-sso-web.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/LoginController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/RegisterController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/TokenController.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/resources/conf/resource.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/resources/spring/springmvc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/jsp/login.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/jsp/register.jsp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/css/headerfooter.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/css/headerfooterindex.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/css/jquery.alerts.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/css/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/css/reg.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/allMail.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/capsLock.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/cas.login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/jquery-1.5.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/jquery.alerts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/passport.common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/png.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso-web/src/main/webapp/js/reg.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-interface/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-interface/rua-sso-interface.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/LoginService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/RegisterService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/TokenService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/rua-sso-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/LoginServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/RegisterServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/TokenServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/conf/db.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/conf/resource.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/mybatis/SqlMapConfig.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-dao.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-redis.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-service.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-trans.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/webapp/WEB-INF/web.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-sso/rua-sso.iml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-common/target/rua-common.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.8.0-alpha2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-08" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-10" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/tomcat/logs/access_log.2017-12-15" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web.war" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/classes/com/xiongkuang/front/controller/IndexController.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/classes/conf/resource.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/classes/spring/springmvc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/jsp/commons/footer.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/jsp/commons/header.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/jsp/commons/mainmenu.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/jsp/commons/shortcut.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/jsp/index.jsp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/aspectjweaver-1.8.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/c3p0-0.9.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-codec-1.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-io-1.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-lang3-3.3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-net-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/commons-pool2-2.4.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/dubbo-2.5.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/fastdfs_client-1.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/httpclient-4.5.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/httpcore-4.4.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jackson-annotations-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jackson-core-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jackson-databind-2.9.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/javassist-3.20.0-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jedis-2.9.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jline-0.9.94.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/joda-time-2.9.9.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jsqlparser-0.9.5.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/log4j-1.2.16.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/netty-3.10.5.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/pagehelper-4.1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/quartz-2.2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/rua-content-interface-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/slf4j-api-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/slf4j-log4j12-1.6.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-aop-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-aspects-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-beans-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-context-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-context-support-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-core-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-expression-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-jdbc-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-jms-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-messaging-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-tx-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-web-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/spring-webmvc-4.3.12.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/zkclient-0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/lib/zookeeper-3.4.10.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/css/base_w1200.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/bottom_sm.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/cate_bg.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot/cd.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot/logo.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot/qc.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot/qq.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot/sf.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/foot_bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/g_loading.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-6.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-7.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/160x160-8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/26336113289bf7273823080488a9d200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/751d2091c008c2a49c1934545730f041.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/7cc96c14e10f6ed8db28b4b1efdfdb07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/8f42d6d2deead3da7d50c8a702a3c939.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/goods/c11e0d59289782b09ea1cbcb98070017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/042cc65a4fb9899878f2f37235ca1793.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1463455028.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1463456854.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1468837571.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1471311388.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1471311447.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1472521203.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1472521236.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1472521250.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/1748dcf682d7f595012e4309695d71d9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/20160829181637762.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/26336113289bf7273823080488a9d200.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/2a3ba6ffb33d8fca0dc848f94e3d99d8.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/49111b8189bf71370cdb145f8fdb1195.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/4dd7317569a06a451c1fe7762d6bf928.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/516e4d058d1d65a3506e179642297b2d.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/51e357022c1f826f13211222831a4b13.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/600c425e04b41f49e451d2fdbafb6e45.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/751d2091c008c2a49c1934545730f041.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/757e35fab995b43c23b4396dc3ba4269.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/7a80fda907bf5107f6967add2a304a51.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/7cc96c14e10f6ed8db28b4b1efdfdb07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/838abc2055e36f423701de255bbc9914.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/8f42d6d2deead3da7d50c8a702a3c939.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/95256f5b2857ec28914f631532508d76.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/aa472cb9f9624d22d1fcfd1c4dffbe42.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/c11e0d59289782b09ea1cbcb98070017.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/c3449a684bebe21f5b6c6c79e46791ff.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/cf33d7d36f1128577782ded21fe812a9.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/ddf3f66b114f3a3bfbbe0b47693cdbf0.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/de66a063548629c8d4e639523d8c9c6e.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/e886f76e03f7a3596033eb34ca362339.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/html/logo_word.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/indexImg20130307.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/index_icon_new.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/indexsprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/kxicon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/left_lm_m.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/left_lm_m_a.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/images/logo66.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/js/e3mall.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/js/global_index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/js/jquery-1.4.2.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/rua-manager-web/js/jquery.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-08" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-10" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-11" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-15" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.8.0-alpha2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-11-30" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-01" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-05" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-06" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-07" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-08" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-10" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/tomcat/logs/access_log.2017-12-15" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.7.25.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/tomcat/logs/access_log.2017-12-12" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/tomcat/logs/access_log.2017-12-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/tomcat/logs/access_log.2017-12-14" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/tomcat/logs/access_log.2017-12-15" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/bottom_sm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/cart_icon.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/cart_icon2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/cartbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/cate_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/foot_bottom.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/getfavbg.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/header.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/indexImg20130307.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/kxicon.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/logo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/logo66.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/logo_word.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/productinfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/sf-stock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/step_01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/images/thumb_1800220027_0_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_cart_service_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_cart_service_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_cart_web_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_cart_web_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/rua-cart-web.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/controller/CartController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/interceptor/LoginInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/resources/spring/springmvc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cartSuccess.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/footer.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/header1.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/mainmenu.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/css/cart.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/css/common.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/css/head.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/css/jquery.alerts.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/cart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/e3mall.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/jquery-1.5.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/jquery.alerts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/jquery.cookie.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/jquery.price_format.2.0.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/shadow.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-interface/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-interface/rua-cart-interface.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-interface/src/main/java/com/xiongkuang/cart/service/CartService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/rua-cart-service.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/java/com/xiongkuang/cart/service/impl/CartServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/conf/db.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/conf/resource.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/mybatis/SqlMapConfig.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-dao.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-redis.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-trans.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rua-cart/rua-cart.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClient.class" afterPath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClient.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClientCluster.class" afterPath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClientCluster.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClientPool.class" afterPath="$PROJECT_DIR$/rua-common/target/classes/com/xiongkuang/common/jedis/JedisClientPool.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-common/target/rua-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-interface/target/rua-content-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-interface/target/rua-content-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-content-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-content-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/rua-content-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/test-classes/JedisClientTest.class" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/test-classes/JedisClientTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/rua-manager-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-interface/target/rua-manager-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-interface/target/rua-manager-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/target/rua-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/target/rua-manager-pojo-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/service/impl/ItemServiceImpl.class" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/service/impl/ItemServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqSpringTest$1.class" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqSpringTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqSpringTest.class" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqSpringTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqTest.class" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/test-classes/com/xiongkuang/activemq/ActiveMqTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-interface/target/rua-search-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-search/rua-search-interface/target/rua-search-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT.war" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT.war" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/mapper/ItemMapper.class" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/mapper/ItemMapper.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/service/impl/SearchServiceImpl.class" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/service/impl/SearchServiceImpl.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-common-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-dao-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-manager-pojo-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-search-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/lib/rua-search-interface-1.0-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/test-classes/com/xiongkuang/activemq/MessageConsumerTest.class" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/test-classes/com/xiongkuang/activemq/MessageConsumerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/rua_item_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/rua_item_web_war_exploded.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" afterPath="$PROJECT_DIR$/rua-search-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
@@ -286,53 +80,20 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/pom.xml" afterPath="$PROJECT_DIR$/rua-common/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/rua-common.iml" afterPath="$PROJECT_DIR$/rua-common/rua-common.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-common/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/rua-common/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-content/rua-content-interface/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisClientTest.java" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisClientTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisClientTest.txt" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisClientTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisTest.txt" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/JedisTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisClientTest.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisClientTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisTest.xml" afterPath="$PROJECT_DIR$/rua-content/rua-content-service/target/surefire-reports/TEST-JedisTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" afterPath="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/src/main/webapp/js/e3mall.js" afterPath="$PROJECT_DIR$/rua-front-web/src/main/webapp/js/e3mall.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_jsp.java" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/footer_jsp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/header_jsp.java" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/header_jsp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/mainmenu_jsp.java" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/mainmenu_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java" afterPath="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/logs/access_log.2017-12-19" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.java" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index_jsp.java" afterPath="$PROJECT_DIR$/rua-front-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/index_jsp.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-item-web/pom.xml" afterPath="$PROJECT_DIR$/rua-item-web/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-item-web/rua-item-web.iml" afterPath="$PROJECT_DIR$/rua-item-web/rua-item-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/cart.js" afterPath="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/cart.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js" afterPath="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-dao/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-interface/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-pojo/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/activemq/ActiveMqTest.java" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/activemq/ActiveMqTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/rua-manager-service-1.0-SNAPSHOT/WEB-INF/classes/spring/applicationContext-dao.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.pagehelper.PageHelperTest.xml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.pagehelper.PageHelperTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.publish.PublishTest.xml" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/TEST-com.xiongkuang.publish.PublishTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.pagehelper.PageHelperTest.txt" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.pagehelper.PageHelperTest.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.publish.PublishTest.txt" afterPath="$PROJECT_DIR$/rua-manager/rua-manager-service/target/surefire-reports/com.xiongkuang.publish.PublishTest.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-item-web/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-item-web/target/tomcat/logs/access_log.2017-12-19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-manager-web/target/tomcat/logs/access_log.2017-12-19" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/logs/server.log" afterPath="$PROJECT_DIR$/rua-search-web/logs/server.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/e3mall.js" afterPath="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/e3mall.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-interface/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-search/rua-search-interface/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/activemq/MessageConsumerTest.java" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/activemq/MessageConsumerTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/mapper/ItemMapper.xml" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/rua-search-service-1.0-SNAPSHOT/WEB-INF/classes/com/xiongkuang/search/mapper/ItemMapper.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/surefire-reports/TEST-com.xiongkuang.solrj.TestSolrj.xml" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/surefire-reports/TEST-com.xiongkuang.solrj.TestSolrj.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search/rua-search-service/target/surefire-reports/com.xiongkuang.solrj.TestSolrj.txt" afterPath="$PROJECT_DIR$/rua-search/rua-search-service/target/surefire-reports/com.xiongkuang.solrj.TestSolrj.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-search-web/target/tomcat/logs/access_log.2017-12-19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-search-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.java" afterPath="$PROJECT_DIR$/rua-search-web/target/tomcat/work/Tomcat/localhost/_/org/apache/jsp/WEB_002dINF/jsp/commons/shortcut_jsp.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-sso-web/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-sso-web/target/tomcat/logs/access_log.2017-12-19" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rua-sso/rua-sso-service/target/tomcat/logs/access_log.2017-12-19" afterPath="$PROJECT_DIR$/rua-sso/rua-sso-service/target/tomcat/logs/access_log.2017-12-19" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -358,6 +119,10 @@
     <ignored path="$PROJECT_DIR$/rua-sso/rua-sso-interface/target/" />
     <ignored path="$PROJECT_DIR$/rua-sso/rua-sso-service/target/" />
     <ignored path="$PROJECT_DIR$/rua-sso-web/target/" />
+    <ignored path="$PROJECT_DIR$/rua-cart/target/" />
+    <ignored path="$PROJECT_DIR$/rua-cart/rua-cart-interface/target/" />
+    <ignored path="$PROJECT_DIR$/rua-cart/rua-cart-service/target/" />
+    <ignored path="$PROJECT_DIR$/rua-cart-web/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -380,104 +145,104 @@
       <file leaf-file-name="e3mall.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/js/e3mall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="106" column="54" lean-forward="true" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/resources/spring/springmvc.xml">
+      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-146">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="312">
+              <caret line="104" column="44" lean-forward="false" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="CartController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/controller/CartController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="34" column="10" lean-forward="false" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global_index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/js/global_index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="1282">
+              <caret line="143" column="45" lean-forward="true" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
               <folding>
-                <marker date="1474017812000" expanded="true" signature="52746:52961" ph="..." />
-                <marker date="1474017812000" expanded="true" signature="58438:58444" ph="&amp;nbsp;" />
-                <marker date="1474017812000" expanded="true" signature="58444:58450" ph="&amp;nbsp;" />
-                <marker date="1474017812000" expanded="true" signature="67644:67657" ph="..." />
-                <marker date="1474017812000" expanded="true" signature="67735:67746" ph="..." />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="390">
+              <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <file leaf-file-name="CartServiceImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/java/com/xiongkuang/cart/service/impl/CartServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="356">
+              <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CartService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-interface/src/main/java/com/xiongkuang/cart/service/CartService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="e3mall.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-sso-web/pom.xml">
+      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1665">
-              <caret line="111" column="29" lean-forward="false" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
+            <state relative-caret-position="312">
+              <caret line="104" column="43" lean-forward="false" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/web.xml">
+      <file leaf-file-name="e3mall.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/e3mall.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IndexController.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
+      <file leaf-file-name="shortcut.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="317">
+              <caret line="106" column="45" lean-forward="false" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -500,13 +265,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>solr</find>
-      <find>slf</find>
-      <find>slf4j</find>
-      <find>log4j</find>
-      <find>content</find>
-      <find>rua-front</find>
-      <find>html</find>
       <find>.html</find>
       <find>8085</find>
       <find>keyWord</find>
@@ -530,6 +288,13 @@
       <find>e3mall</find>
       <find>E3MALL</find>
       <find>checklogin</find>
+      <find>购物车</find>
+      <find>8084</find>
+      <find>808</find>
+      <find>incre</find>
+      <find>decrement</find>
+      <find>increment</find>
+      <find>小</find>
     </findStrings>
     <replaceStrings>
       <replace>rua-item-web</replace>
@@ -546,32 +311,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.java" />
-        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/mapper/ItemMapper.xml" />
-        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/java/com/xiongkuang/search/message/ItemAddMessageListener.java" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/resources/spring/applicationContext-activemq.xml" />
-        <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/main/resources/spring/applicationContext-activemq.xml" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/activemq/ActiveMqSpringTest.java" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/resources/conf/resource.properties" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/search.jsp" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/java/com/xiongkuang/item/pojo/Item.java" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/resources/spring/springmvc.xml" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/java/com/xiongkuang/item/controller/ItemController.java" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/resources/conf/resource.properties" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/resources/spring/applicationContext-dao.xml" />
-        <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/main/java/com/xiongkuang/service/impl/ItemServiceImpl.java" />
-        <option value="$PROJECT_DIR$/rua-item-web/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/ftl/hello.ftl" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/test/java/com/xiongkuang/freemarker/FreemarkerTest.java" />
-        <option value="$PROJECT_DIR$/rua-sso/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-sso/rua-sso-interface/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-sso/rua-sso-service/pom.xml" />
-        <option value="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/resources/conf/resource.properties" />
-        <option value="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-trans.xml" />
-        <option value="$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service.java" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/rua-sso-web/pom.xml" />
         <option value="$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/RegisterService.java" />
         <option value="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/RegisterServiceImpl.java" />
@@ -591,12 +331,37 @@
         <option value="$PROJECT_DIR$/rua-sso-web/src/main/resources/conf/resource.properties" />
         <option value="$PROJECT_DIR$/rua-front-web/src/main/webapp/js/e3mall.js" />
         <option value="$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/TokenController.java" />
-        <option value="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js" />
         <option value="$PROJECT_DIR$/rua-search-web/src/main/webapp/js/e3mall.js" />
         <option value="$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/activemq/ActiveMqTest.java" />
         <option value="$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/activemq/MessageConsumerTest.java" />
         <option value="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp" />
+        <option value="$PROJECT_DIR$/rua-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/pom.xml" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-trans.xml" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/cart.js" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cartSuccess.jsp" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/cart.js" />
+        <option value="$PROJECT_DIR$/rua-cart-web/pom.xml" />
+        <option value="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java" />
+        <option value="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java" />
+        <option value="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/conf/resource.properties" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/interceptor/LoginInterceptor.java" />
+        <option value="$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/e3mall.js" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-interface/src/main/java/com/xiongkuang/cart/service/CartService.java" />
+        <option value="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/java/com/xiongkuang/cart/service/impl/CartServiceImpl.java" />
+        <option value="$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/controller/CartController.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -614,55 +379,15 @@
     </option>
   </component>
   <component name="MavenProjectNavigator">
-    <treeState>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="rua-front-web" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tomcat7" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginNode" />
-        </PATH_ELEMENT>
-      </PATH>
-    </treeState>
+    <treeState />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
-    <option name="y" value="23" />
+    <option name="y" value="24" />
     <option name="width" value="1276" />
     <option name="height" value="777" />
   </component>
@@ -845,7 +570,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rua-sso-web" />
+              <option name="myItemId" value="rua-cart-web" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -859,7 +584,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
+              <option name="myItemId" value="rua-cart" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -873,263 +598,55 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
+              <option name="myItemId" value="rua-cart" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jsp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="commons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spring" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RuaMall" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rua-front-web" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controller" />
+              <option name="myItemId" value="rua-cart-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-cart-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RuaMall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rua-cart-interface" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="rua-cart">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1150,21 +667,21 @@
       <recent name="" />
       <recent name="junit.framework.TestCase" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.xiongkuang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rua-cart-web/src/main/resources/spring" />
+      <recent name="$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF" />
+      <recent name="$PROJECT_DIR$/rua-cart-web/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/rua-cart-web/src/main/resources" />
+      <recent name="$PROJECT_DIR$/rua-cart/rua-cart-service/src/main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.xiongkuang.search.mapper" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils" />
-      <recent name="$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF" />
-      <recent name="$PROJECT_DIR$/rua-sso-web/src/main/webapp" />
-      <recent name="$PROJECT_DIR$/rua-sso-web/src/main/resources" />
-      <recent name="$PROJECT_DIR$/rua-sso/rua-sso-service/src/main" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -1303,6 +820,17 @@
       </option>
       <envs />
       <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <method />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -1816,6 +1344,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructuralSearchPlugin">
+    <searchConfiguration name="user defined" created="1513675665860" text="increment" recursive="true" caseInsensitive="true" type="HTML" history="1" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="db83e925-9b4d-4bdb-9788-2d82601292c0" name="Default" comment="" />
@@ -1840,7 +1371,7 @@
       <workItem from="1513098083374" duration="25402000" />
       <workItem from="1513280219754" duration="77000" />
       <workItem from="1513308868923" duration="18980000" />
-      <workItem from="1513619540393" duration="1181000" />
+      <workItem from="1513619540393" duration="15727000" />
     </task>
     <servers />
   </component>
@@ -1877,10 +1408,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156761000" />
+    <option name="totallyTimeSpent" value="171307000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1276" height="777" extended-state="6" />
+    <frame x="4" y="24" width="1276" height="777" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1901,9 +1432,9 @@
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2729927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2729927" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.270073" sideWeight="0.49189627" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.270073" sideWeight="0.49189627" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23176661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39562044" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1935,284 +1466,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
-          <caret line="85" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="85" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/resources/conf/db.properties" />
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/resources/conf/resource.properties" />
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/resources/mybatis/SqlMapConfig.xml" />
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/resources/spring/applicationContext-dao.xml" />
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="10" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="18" column="40" lean-forward="false" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="34" column="32" lean-forward="false" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="53" lean-forward="false" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service.java" />
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/jsp/register.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/RegisterService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="41" lean-forward="false" selection-start-line="12" selection-start-column="41" selection-end-line="12" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/RegisterServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-147">
-          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="81" column="21" lean-forward="false" selection-start-line="81" selection-start-column="21" selection-end-line="81" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/utils/CookieUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="221" column="51" lean-forward="true" selection-start-line="221" selection-start-column="51" selection-end-line="221" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="165">
-            <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/header.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-46">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="52" lean-forward="false" selection-start-line="9" selection-start-column="52" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/TokenService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-interface/src/main/java/com/xiongkuang/sso/service/LoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="19" lean-forward="false" selection-start-line="17" selection-start-column="19" selection-end-line="17" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-trans.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="26" column="73" lean-forward="false" selection-start-line="26" selection-start-column="73" selection-end-line="26" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="24" lean-forward="true" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-redis.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-dao.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="23" column="57" lean-forward="false" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/conf/db.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/test/java/JedisClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="18" column="43" lean-forward="true" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/LoginServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="52" column="25" lean-forward="false" selection-start-line="52" selection-start-column="25" selection-end-line="52" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/java/com/xiongkuang/sso/service/impl/TokenServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/jsp/login.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="145" column="24" lean-forward="false" selection-start-line="145" selection-start-column="24" selection-end-line="145" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/resources/spring/springmvc.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="33" column="58" lean-forward="false" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/resources/conf/resource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="35" column="48" lean-forward="false" selection-start-line="35" selection-start-column="48" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/RegisterController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/TokenController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-964">
-          <caret line="29" column="21" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="29" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-search-web/src/main/webapp/js/e3mall.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="40" lean-forward="false" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-manager/rua-manager-service/src/test/java/com/xiongkuang/activemq/ActiveMqTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2250">
-          <caret line="154" column="0" lean-forward="false" selection-start-line="154" selection-start-column="0" selection-end-line="154" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-search/rua-search-service/src/test/java/com/xiongkuang/activemq/MessageConsumerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/src/main/resources/spring/applicationContext-service.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="296">
@@ -2233,14 +1486,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1665">
           <caret line="111" column="29" lean-forward="false" selection-start-line="111" selection-start-column="29" selection-end-line="111" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -2278,23 +1523,379 @@
     <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <caret line="41" column="10" lean-forward="false" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="12" lean-forward="false" selection-start-line="18" selection-start-column="4" selection-end-line="37" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-interface/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-content/rua-content-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="313">
+          <caret line="85" column="19" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="85" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-452">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/conf/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-dao.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-193">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-redis.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/mybatis/SqlMapConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-trans.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" lean-forward="false" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-item-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="123" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="112">
+            <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/jsp/item.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="108" column="80" lean-forward="false" selection-start-line="108" selection-start-column="80" selection-end-line="108" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="279" column="33" lean-forward="false" selection-start-line="279" selection-start-column="33" selection-end-line="279" selection-end-column="33" />
+          <folding>
+            <marker date="1513666666847" expanded="true" signature="13989:14059" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cartSuccess.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-sso-web/src/main/java/com/xiongkuang/sso/controller/TokenController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/cookie.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/idea.jar!/standardSchemas/xhtml1-transitional.dtd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="162" column="2" lean-forward="false" selection-start-line="162" selection-start-column="2" selection-end-line="162" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/cart.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="109" column="78" lean-forward="false" selection-start-line="109" selection-start-column="67" selection-end-line="109" selection-end-column="78" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/cart.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-sso/rua-sso-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="106" column="29" lean-forward="false" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-common/src/main/java/com/xiongkuang/common/jedis/JedisClientCluster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="77" column="33" lean-forward="false" selection-start-line="77" selection-start-column="33" selection-end-line="77" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1291#1292#0" expanded="false" />
+            <element signature="e#1337#1338#0" expanded="false" />
+            <element signature="e#1390#1391#0" expanded="false" />
+            <element signature="e#1427#1428#0" expanded="false" />
+            <element signature="e#1505#1506#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/conf/resource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="19" lean-forward="false" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="31" column="21" lean-forward="false" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/java/com/xiongkuang/front/controller/IndexController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/interceptor/LoginInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="106" column="45" lean-forward="false" selection-start-line="106" selection-start-column="45" selection-end-line="106" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="104" column="44" lean-forward="false" selection-start-line="104" selection-start-column="44" selection-end-line="104" selection-end-column="44" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/js/e3mall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+        <state relative-caret-position="285">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rua-front-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
+    <entry file="file://$PROJECT_DIR$/rua-item-web/src/main/webapp/js/e3mall.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="106" column="54" lean-forward="true" selection-start-line="106" selection-start-column="54" selection-end-line="106" selection-end-column="54" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="24" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/WEB-INF/jsp/commons/shortcut.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="104" column="43" lean-forward="false" selection-start-line="104" selection-start-column="43" selection-end-line="104" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/webapp/js/e3mall.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-interface/src/main/java/com/xiongkuang/cart/service/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart/rua-cart-service/src/main/java/com/xiongkuang/cart/service/impl/CartServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="95" column="0" lean-forward="true" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rua-cart-web/src/main/java/com/xiongkuang/cart/controller/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1282">
+          <caret line="143" column="45" lean-forward="true" selection-start-line="143" selection-start-column="45" selection-end-line="143" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
